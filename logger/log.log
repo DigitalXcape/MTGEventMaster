@@ -1,0 +1,2286 @@
+[2024-12-06 01:40:27] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:27] API response code: 404
+[2024-12-06 01:40:27] API returned an error or missing notifications data.
+[2024-12-06 01:40:27] []
+[2024-12-06 01:40:32] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:32] API response code: 404
+[2024-12-06 01:40:32] API returned an error or missing notifications data.
+[2024-12-06 01:40:32] []
+[2024-12-06 01:40:37] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:37] API response code: 404
+[2024-12-06 01:40:37] API returned an error or missing notifications data.
+[2024-12-06 01:40:37] []
+[2024-12-06 01:40:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:42] API response code: 404
+[2024-12-06 01:40:42] API returned an error or missing notifications data.
+[2024-12-06 01:40:42] []
+[2024-12-06 01:40:47] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:47] API response code: 404
+[2024-12-06 01:40:47] API returned an error or missing notifications data.
+[2024-12-06 01:40:47] []
+[2024-12-06 01:40:51] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:40:51] CURL executed successfully. Response received.
+[2024-12-06 01:40:51] HTTP response code: 200
+[2024-12-06 01:40:51] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:40:51] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:40:52] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:52] API response code: 404
+[2024-12-06 01:40:52] API returned an error or missing notifications data.
+[2024-12-06 01:40:52] []
+[2024-12-06 01:40:52] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:53] API response code: 404
+[2024-12-06 01:40:53] API returned an error or missing notifications data.
+[2024-12-06 01:40:53] []
+[2024-12-06 01:40:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-06 01:40:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:57] API response code: 200
+[2024-12-06 01:40:57] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-06 01:40:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-06 01:40:57] API response code: 404
+[2024-12-06 01:40:57] API returned an error or missing notifications data.
+[2024-12-06 01:40:57] []
+[2024-12-06 01:40:58] API response code: 200
+[2024-12-06 01:40:58] API response received successfully: [{"CommentID":21,"CreatorID":5,"Likes":0,"DateCreated":"2024-12-06","Body":"test","Username":"admin"},{"CommentID":22,"CreatorID":5,"Likes":0,"DateCreated":"2024-12-06","Body":"this is a notification test","Username":"admin"}]
+[2024-12-06 01:40:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:40:59] API response code: 404
+[2024-12-06 01:40:59] API returned an error or missing notifications data.
+[2024-12-06 01:40:59] []
+[2024-12-06 01:41:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:04] API response code: 404
+[2024-12-06 01:41:04] API returned an error or missing notifications data.
+[2024-12-06 01:41:04] []
+[2024-12-06 01:41:07] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:08] API response code: 404
+[2024-12-06 01:41:08] API returned an error or missing notifications data.
+[2024-12-06 01:41:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:09] API response code: 404
+[2024-12-06 01:41:09] API returned an error or missing notifications data.
+[2024-12-06 01:41:09] []
+[2024-12-06 01:41:10] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:10] API response code: 404
+[2024-12-06 01:41:10] API returned an error or missing notifications data.
+[2024-12-06 01:41:10] []
+[2024-12-06 01:41:11] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:41:11] CURL executed successfully. Response received.
+[2024-12-06 01:41:11] HTTP response code: 200
+[2024-12-06 01:41:11] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:41:11] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:41:12] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:12] API response code: 404
+[2024-12-06 01:41:12] API returned an error or missing notifications data.
+[2024-12-06 01:41:12] []
+[2024-12-06 01:41:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:14] API response code: 404
+[2024-12-06 01:41:14] API returned an error or missing notifications data.
+[2024-12-06 01:41:14] []
+[2024-12-06 01:41:16] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:17] API response code: 404
+[2024-12-06 01:41:17] API returned an error or missing notifications data.
+[2024-12-06 01:41:17] []
+[2024-12-06 01:41:21] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:22] API response code: 404
+[2024-12-06 01:41:22] API returned an error or missing notifications data.
+[2024-12-06 01:41:22] []
+[2024-12-06 01:41:26] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:27] API response code: 404
+[2024-12-06 01:41:27] API returned an error or missing notifications data.
+[2024-12-06 01:41:27] []
+[2024-12-06 01:41:31] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:32] API response code: 404
+[2024-12-06 01:41:32] API returned an error or missing notifications data.
+[2024-12-06 01:41:32] []
+[2024-12-06 01:41:36] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:37] API response code: 404
+[2024-12-06 01:41:37] API returned an error or missing notifications data.
+[2024-12-06 01:41:37] []
+[2024-12-06 01:41:38] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:41:39] CURL executed successfully. Response received.
+[2024-12-06 01:41:39] HTTP response code: 200
+[2024-12-06 01:41:39] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:41:39] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:41:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:40] API response code: 404
+[2024-12-06 01:41:40] API returned an error or missing notifications data.
+[2024-12-06 01:41:40] []
+[2024-12-06 01:41:40] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-06 01:41:41] API response code: 200
+[2024-12-06 01:41:41] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-06 01:41:41] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-06 01:41:41] API response code: 200
+[2024-12-06 01:41:41] API response received successfully: [{"CommentID":21,"CreatorID":5,"Likes":0,"DateCreated":"2024-12-06","Body":"test","Username":"admin"},{"CommentID":22,"CreatorID":5,"Likes":0,"DateCreated":"2024-12-06","Body":"this is a notification test","Username":"admin"}]
+[2024-12-06 01:41:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:42] API response code: 404
+[2024-12-06 01:41:42] API returned an error or missing notifications data.
+[2024-12-06 01:41:42] []
+[2024-12-06 01:41:47] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:47] API response code: 404
+[2024-12-06 01:41:47] API returned an error or missing notifications data.
+[2024-12-06 01:41:47] []
+[2024-12-06 01:41:52] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:52] API response code: 404
+[2024-12-06 01:41:52] API returned an error or missing notifications data.
+[2024-12-06 01:41:52] []
+[2024-12-06 01:41:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:41:58] API response code: 404
+[2024-12-06 01:41:58] API returned an error or missing notifications data.
+[2024-12-06 01:41:58] []
+[2024-12-06 01:42:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:03] API response code: 404
+[2024-12-06 01:42:03] API returned an error or missing notifications data.
+[2024-12-06 01:42:03] []
+[2024-12-06 01:42:07] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:07] API response code: 404
+[2024-12-06 01:42:07] API returned an error or missing notifications data.
+[2024-12-06 01:42:07] []
+[2024-12-06 01:42:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-06 01:42:09] API response code: 200
+[2024-12-06 01:42:09] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-06 01:42:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-06 01:42:09] API response code: 404
+[2024-12-06 01:42:09] Failed to decode API response or API returned an error.
+[2024-12-06 01:42:10] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:10] API response code: 404
+[2024-12-06 01:42:10] API returned an error or missing notifications data.
+[2024-12-06 01:42:10] []
+[2024-12-06 01:42:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:14] API response code: 404
+[2024-12-06 01:42:14] API returned an error or missing notifications data.
+[2024-12-06 01:42:14] []
+[2024-12-06 01:42:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:19] API response code: 404
+[2024-12-06 01:42:19] API returned an error or missing notifications data.
+[2024-12-06 01:42:19] []
+[2024-12-06 01:42:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:24] API response code: 404
+[2024-12-06 01:42:24] API returned an error or missing notifications data.
+[2024-12-06 01:42:24] []
+[2024-12-06 01:42:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:29] API response code: 404
+[2024-12-06 01:42:29] API returned an error or missing notifications data.
+[2024-12-06 01:42:29] []
+[2024-12-06 01:42:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:34] API response code: 404
+[2024-12-06 01:42:34] API returned an error or missing notifications data.
+[2024-12-06 01:42:34] []
+[2024-12-06 01:42:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:39] API response code: 404
+[2024-12-06 01:42:39] API returned an error or missing notifications data.
+[2024-12-06 01:42:39] []
+[2024-12-06 01:42:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:44] API response code: 404
+[2024-12-06 01:42:44] API returned an error or missing notifications data.
+[2024-12-06 01:42:44] []
+[2024-12-06 01:42:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:49] API response code: 404
+[2024-12-06 01:42:49] API returned an error or missing notifications data.
+[2024-12-06 01:42:49] []
+[2024-12-06 01:42:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:54] API response code: 404
+[2024-12-06 01:42:54] API returned an error or missing notifications data.
+[2024-12-06 01:42:54] []
+[2024-12-06 01:42:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:42:59] API response code: 404
+[2024-12-06 01:42:59] API returned an error or missing notifications data.
+[2024-12-06 01:42:59] []
+[2024-12-06 01:43:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:04] API response code: 404
+[2024-12-06 01:43:04] API returned an error or missing notifications data.
+[2024-12-06 01:43:04] []
+[2024-12-06 01:43:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:09] API response code: 404
+[2024-12-06 01:43:09] API returned an error or missing notifications data.
+[2024-12-06 01:43:09] []
+[2024-12-06 01:43:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:14] API response code: 404
+[2024-12-06 01:43:14] API returned an error or missing notifications data.
+[2024-12-06 01:43:14] []
+[2024-12-06 01:43:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:19] API response code: 404
+[2024-12-06 01:43:19] API returned an error or missing notifications data.
+[2024-12-06 01:43:19] []
+[2024-12-06 01:43:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:24] API response code: 404
+[2024-12-06 01:43:24] API returned an error or missing notifications data.
+[2024-12-06 01:43:24] []
+[2024-12-06 01:43:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:29] API response code: 404
+[2024-12-06 01:43:29] API returned an error or missing notifications data.
+[2024-12-06 01:43:29] []
+[2024-12-06 01:43:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:34] API response code: 404
+[2024-12-06 01:43:34] API returned an error or missing notifications data.
+[2024-12-06 01:43:34] []
+[2024-12-06 01:43:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:39] API response code: 404
+[2024-12-06 01:43:39] API returned an error or missing notifications data.
+[2024-12-06 01:43:39] []
+[2024-12-06 01:43:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:44] API response code: 404
+[2024-12-06 01:43:44] API returned an error or missing notifications data.
+[2024-12-06 01:43:44] []
+[2024-12-06 01:43:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:49] API response code: 404
+[2024-12-06 01:43:49] API returned an error or missing notifications data.
+[2024-12-06 01:43:49] []
+[2024-12-06 01:43:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:43:54] API response code: 404
+[2024-12-06 01:43:54] API returned an error or missing notifications data.
+[2024-12-06 01:43:54] []
+[2024-12-06 01:44:30] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:30] API response code: 404
+[2024-12-06 01:44:30] API returned an error or missing notifications data.
+[2024-12-06 01:44:30] []
+[2024-12-06 01:44:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:34] API response code: 404
+[2024-12-06 01:44:34] API returned an error or missing notifications data.
+[2024-12-06 01:44:34] []
+[2024-12-06 01:44:34] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:44:34] CURL executed successfully. Response received.
+[2024-12-06 01:44:34] HTTP response code: 200
+[2024-12-06 01:44:34] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:44:34] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:44:35] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:35] API response code: 404
+[2024-12-06 01:44:35] API returned an error or missing notifications data.
+[2024-12-06 01:44:35] []
+[2024-12-06 01:44:40] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:40] API response code: 404
+[2024-12-06 01:44:40] API returned an error or missing notifications data.
+[2024-12-06 01:44:40] []
+[2024-12-06 01:44:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:44] API response code: 404
+[2024-12-06 01:44:44] API returned an error or missing notifications data.
+[2024-12-06 01:44:44] []
+[2024-12-06 01:44:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:49] API response code: 404
+[2024-12-06 01:44:49] API returned an error or missing notifications data.
+[2024-12-06 01:44:49] []
+[2024-12-06 01:44:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:44:54] API response code: 404
+[2024-12-06 01:44:54] API returned an error or missing notifications data.
+[2024-12-06 01:44:54] []
+[2024-12-06 01:45:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:00] API response code: 404
+[2024-12-06 01:45:00] API returned an error or missing notifications data.
+[2024-12-06 01:45:00] []
+[2024-12-06 01:45:05] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:05] API response code: 404
+[2024-12-06 01:45:05] API returned an error or missing notifications data.
+[2024-12-06 01:45:05] []
+[2024-12-06 01:45:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:09] API response code: 404
+[2024-12-06 01:45:09] API returned an error or missing notifications data.
+[2024-12-06 01:45:09] []
+[2024-12-06 01:45:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:14] API response code: 404
+[2024-12-06 01:45:14] API returned an error or missing notifications data.
+[2024-12-06 01:45:14] []
+[2024-12-06 01:45:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:19] API response code: 404
+[2024-12-06 01:45:19] API returned an error or missing notifications data.
+[2024-12-06 01:45:19] []
+[2024-12-06 01:45:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:24] API response code: 404
+[2024-12-06 01:45:24] API returned an error or missing notifications data.
+[2024-12-06 01:45:24] []
+[2024-12-06 01:45:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:29] API response code: 404
+[2024-12-06 01:45:29] API returned an error or missing notifications data.
+[2024-12-06 01:45:29] []
+[2024-12-06 01:45:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:34] API response code: 404
+[2024-12-06 01:45:34] API returned an error or missing notifications data.
+[2024-12-06 01:45:34] []
+[2024-12-06 01:45:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:39] API response code: 404
+[2024-12-06 01:45:39] API returned an error or missing notifications data.
+[2024-12-06 01:45:39] []
+[2024-12-06 01:45:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:44] API response code: 404
+[2024-12-06 01:45:44] API returned an error or missing notifications data.
+[2024-12-06 01:45:44] []
+[2024-12-06 01:45:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:49] API response code: 404
+[2024-12-06 01:45:49] API returned an error or missing notifications data.
+[2024-12-06 01:45:49] []
+[2024-12-06 01:45:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:54] API response code: 404
+[2024-12-06 01:45:54] API returned an error or missing notifications data.
+[2024-12-06 01:45:54] []
+[2024-12-06 01:45:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:45:59] API response code: 404
+[2024-12-06 01:45:59] API returned an error or missing notifications data.
+[2024-12-06 01:45:59] []
+[2024-12-06 01:46:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:04] API response code: 404
+[2024-12-06 01:46:04] API returned an error or missing notifications data.
+[2024-12-06 01:46:04] []
+[2024-12-06 01:46:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:09] API response code: 404
+[2024-12-06 01:46:09] API returned an error or missing notifications data.
+[2024-12-06 01:46:09] []
+[2024-12-06 01:46:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:14] API response code: 404
+[2024-12-06 01:46:14] API returned an error or missing notifications data.
+[2024-12-06 01:46:14] []
+[2024-12-06 01:46:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:19] API response code: 404
+[2024-12-06 01:46:19] API returned an error or missing notifications data.
+[2024-12-06 01:46:19] []
+[2024-12-06 01:46:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:24] API response code: 404
+[2024-12-06 01:46:24] API returned an error or missing notifications data.
+[2024-12-06 01:46:24] []
+[2024-12-06 01:46:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:29] API response code: 404
+[2024-12-06 01:46:29] API returned an error or missing notifications data.
+[2024-12-06 01:46:29] []
+[2024-12-06 01:46:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:34] API response code: 404
+[2024-12-06 01:46:34] API returned an error or missing notifications data.
+[2024-12-06 01:46:34] []
+[2024-12-06 01:46:36] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:46:37] CURL executed successfully. Response received.
+[2024-12-06 01:46:37] HTTP response code: 200
+[2024-12-06 01:46:37] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:46:37] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:46:37] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:38] API response code: 404
+[2024-12-06 01:46:38] API returned an error or missing notifications data.
+[2024-12-06 01:46:38] []
+[2024-12-06 01:46:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:40] API response code: 404
+[2024-12-06 01:46:40] API returned an error or missing notifications data.
+[2024-12-06 01:46:40] []
+[2024-12-06 01:46:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:45] API response code: 404
+[2024-12-06 01:46:45] API returned an error or missing notifications data.
+[2024-12-06 01:46:45] []
+[2024-12-06 01:46:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:50] API response code: 404
+[2024-12-06 01:46:50] API returned an error or missing notifications data.
+[2024-12-06 01:46:50] []
+[2024-12-06 01:46:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:46:55] API response code: 404
+[2024-12-06 01:46:55] API returned an error or missing notifications data.
+[2024-12-06 01:46:55] []
+[2024-12-06 01:46:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:00] API response code: 404
+[2024-12-06 01:47:00] API returned an error or missing notifications data.
+[2024-12-06 01:47:00] []
+[2024-12-06 01:47:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:05] API response code: 404
+[2024-12-06 01:47:05] API returned an error or missing notifications data.
+[2024-12-06 01:47:05] []
+[2024-12-06 01:47:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:10] API response code: 404
+[2024-12-06 01:47:10] API returned an error or missing notifications data.
+[2024-12-06 01:47:10] []
+[2024-12-06 01:47:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:15] API response code: 404
+[2024-12-06 01:47:15] API returned an error or missing notifications data.
+[2024-12-06 01:47:15] []
+[2024-12-06 01:47:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:20] API response code: 404
+[2024-12-06 01:47:20] API returned an error or missing notifications data.
+[2024-12-06 01:47:20] []
+[2024-12-06 01:47:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:25] API response code: 404
+[2024-12-06 01:47:25] API returned an error or missing notifications data.
+[2024-12-06 01:47:25] []
+[2024-12-06 01:47:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:30] API response code: 404
+[2024-12-06 01:47:30] API returned an error or missing notifications data.
+[2024-12-06 01:47:30] []
+[2024-12-06 01:47:35] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:35] API response code: 404
+[2024-12-06 01:47:35] API returned an error or missing notifications data.
+[2024-12-06 01:47:35] []
+[2024-12-06 01:47:40] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:40] API response code: 404
+[2024-12-06 01:47:40] API returned an error or missing notifications data.
+[2024-12-06 01:47:40] []
+[2024-12-06 01:47:45] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:45] API response code: 404
+[2024-12-06 01:47:45] API returned an error or missing notifications data.
+[2024-12-06 01:47:45] []
+[2024-12-06 01:47:50] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:50] API response code: 404
+[2024-12-06 01:47:50] API returned an error or missing notifications data.
+[2024-12-06 01:47:50] []
+[2024-12-06 01:47:55] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:47:55] API response code: 404
+[2024-12-06 01:47:55] API returned an error or missing notifications data.
+[2024-12-06 01:47:55] []
+[2024-12-06 01:48:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:00] API response code: 404
+[2024-12-06 01:48:00] API returned an error or missing notifications data.
+[2024-12-06 01:48:00] []
+[2024-12-06 01:48:05] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:05] API response code: 404
+[2024-12-06 01:48:05] API returned an error or missing notifications data.
+[2024-12-06 01:48:05] []
+[2024-12-06 01:48:10] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:10] API response code: 404
+[2024-12-06 01:48:10] API returned an error or missing notifications data.
+[2024-12-06 01:48:10] []
+[2024-12-06 01:48:15] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:15] API response code: 404
+[2024-12-06 01:48:15] API returned an error or missing notifications data.
+[2024-12-06 01:48:15] []
+[2024-12-06 01:48:20] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:20] API response code: 404
+[2024-12-06 01:48:20] API returned an error or missing notifications data.
+[2024-12-06 01:48:20] []
+[2024-12-06 01:48:25] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:25] API response code: 404
+[2024-12-06 01:48:25] API returned an error or missing notifications data.
+[2024-12-06 01:48:25] []
+[2024-12-06 01:48:30] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:30] API response code: 404
+[2024-12-06 01:48:30] API returned an error or missing notifications data.
+[2024-12-06 01:48:30] []
+[2024-12-06 01:48:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:48:44] API response code: 404
+[2024-12-06 01:48:44] API returned an error or missing notifications data.
+[2024-12-06 01:48:44] []
+[2024-12-06 01:49:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:19] API response code: 404
+[2024-12-06 01:49:19] API returned an error or missing notifications data.
+[2024-12-06 01:49:19] []
+[2024-12-06 01:49:20] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:20] API response code: 404
+[2024-12-06 01:49:20] API returned an error or missing notifications data.
+[2024-12-06 01:49:20] []
+[2024-12-06 01:49:20] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:21] API response code: 404
+[2024-12-06 01:49:21] API returned an error or missing notifications data.
+[2024-12-06 01:49:21] []
+[2024-12-06 01:49:25] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:26] API response code: 404
+[2024-12-06 01:49:26] API returned an error or missing notifications data.
+[2024-12-06 01:49:26] []
+[2024-12-06 01:49:26] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-06 01:49:26] CURL executed successfully. Response received.
+[2024-12-06 01:49:26] HTTP response code: 200
+[2024-12-06 01:49:26] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-06 01:49:26] Posts retrieved successfully. Displaying posts.
+[2024-12-06 01:49:27] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:27] API response code: 404
+[2024-12-06 01:49:27] API returned an error or missing notifications data.
+[2024-12-06 01:49:27] []
+[2024-12-06 01:49:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:28] API response code: 404
+[2024-12-06 01:49:28] API returned an error or missing notifications data.
+[2024-12-06 01:49:28] []
+[2024-12-06 01:49:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:34] API response code: 404
+[2024-12-06 01:49:34] API returned an error or missing notifications data.
+[2024-12-06 01:49:34] []
+[2024-12-06 01:49:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:39] API response code: 404
+[2024-12-06 01:49:39] API returned an error or missing notifications data.
+[2024-12-06 01:49:39] []
+[2024-12-06 01:49:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:44] API response code: 404
+[2024-12-06 01:49:44] API returned an error or missing notifications data.
+[2024-12-06 01:49:44] []
+[2024-12-06 01:49:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:49] API response code: 404
+[2024-12-06 01:49:49] API returned an error or missing notifications data.
+[2024-12-06 01:49:49] []
+[2024-12-06 01:49:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:54] API response code: 404
+[2024-12-06 01:49:54] API returned an error or missing notifications data.
+[2024-12-06 01:49:54] []
+[2024-12-06 01:49:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:49:59] API response code: 404
+[2024-12-06 01:49:59] API returned an error or missing notifications data.
+[2024-12-06 01:49:59] []
+[2024-12-06 01:50:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:04] API response code: 404
+[2024-12-06 01:50:04] API returned an error or missing notifications data.
+[2024-12-06 01:50:04] []
+[2024-12-06 01:50:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:08] API response code: 404
+[2024-12-06 01:50:08] API returned an error or missing notifications data.
+[2024-12-06 01:50:08] []
+[2024-12-06 01:50:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:10] API response code: 404
+[2024-12-06 01:50:10] API returned an error or missing notifications data.
+[2024-12-06 01:50:10] []
+[2024-12-06 01:50:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:15] API response code: 404
+[2024-12-06 01:50:15] API returned an error or missing notifications data.
+[2024-12-06 01:50:15] []
+[2024-12-06 01:50:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:19] API response code: 404
+[2024-12-06 01:50:19] API returned an error or missing notifications data.
+[2024-12-06 01:50:19] []
+[2024-12-06 01:50:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:24] API response code: 404
+[2024-12-06 01:50:24] API returned an error or missing notifications data.
+[2024-12-06 01:50:24] []
+[2024-12-06 01:50:30] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:30] API response code: 404
+[2024-12-06 01:50:30] API returned an error or missing notifications data.
+[2024-12-06 01:50:30] []
+[2024-12-06 01:50:35] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:35] API response code: 404
+[2024-12-06 01:50:35] API returned an error or missing notifications data.
+[2024-12-06 01:50:35] []
+[2024-12-06 01:50:40] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:40] API response code: 404
+[2024-12-06 01:50:40] API returned an error or missing notifications data.
+[2024-12-06 01:50:40] []
+[2024-12-06 01:50:45] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:45] API response code: 404
+[2024-12-06 01:50:45] API returned an error or missing notifications data.
+[2024-12-06 01:50:45] []
+[2024-12-06 01:50:50] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:50] API response code: 404
+[2024-12-06 01:50:50] API returned an error or missing notifications data.
+[2024-12-06 01:50:50] []
+[2024-12-06 01:50:55] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:50:55] API response code: 404
+[2024-12-06 01:50:55] API returned an error or missing notifications data.
+[2024-12-06 01:50:55] []
+[2024-12-06 01:51:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:00] API response code: 404
+[2024-12-06 01:51:00] API returned an error or missing notifications data.
+[2024-12-06 01:51:00] []
+[2024-12-06 01:51:05] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:05] API response code: 404
+[2024-12-06 01:51:05] API returned an error or missing notifications data.
+[2024-12-06 01:51:05] []
+[2024-12-06 01:51:10] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:10] API response code: 404
+[2024-12-06 01:51:10] API returned an error or missing notifications data.
+[2024-12-06 01:51:10] []
+[2024-12-06 01:51:15] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:15] API response code: 404
+[2024-12-06 01:51:15] API returned an error or missing notifications data.
+[2024-12-06 01:51:15] []
+[2024-12-06 01:51:20] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:20] API response code: 404
+[2024-12-06 01:51:20] API returned an error or missing notifications data.
+[2024-12-06 01:51:20] []
+[2024-12-06 01:51:25] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:25] API response code: 404
+[2024-12-06 01:51:25] API returned an error or missing notifications data.
+[2024-12-06 01:51:25] []
+[2024-12-06 01:51:30] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:30] API response code: 404
+[2024-12-06 01:51:30] API returned an error or missing notifications data.
+[2024-12-06 01:51:30] []
+[2024-12-06 01:51:35] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:35] API response code: 404
+[2024-12-06 01:51:35] API returned an error or missing notifications data.
+[2024-12-06 01:51:35] []
+[2024-12-06 01:51:40] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:40] API response code: 404
+[2024-12-06 01:51:40] API returned an error or missing notifications data.
+[2024-12-06 01:51:40] []
+[2024-12-06 01:51:45] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:45] API response code: 404
+[2024-12-06 01:51:45] API returned an error or missing notifications data.
+[2024-12-06 01:51:45] []
+[2024-12-06 01:51:50] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:50] API response code: 404
+[2024-12-06 01:51:50] API returned an error or missing notifications data.
+[2024-12-06 01:51:50] []
+[2024-12-06 01:51:55] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:51:55] API response code: 404
+[2024-12-06 01:51:55] API returned an error or missing notifications data.
+[2024-12-06 01:51:55] []
+[2024-12-06 01:52:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:00] API response code: 404
+[2024-12-06 01:52:00] API returned an error or missing notifications data.
+[2024-12-06 01:52:00] []
+[2024-12-06 01:52:05] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:05] API response code: 404
+[2024-12-06 01:52:05] API returned an error or missing notifications data.
+[2024-12-06 01:52:05] []
+[2024-12-06 01:52:10] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:10] API response code: 404
+[2024-12-06 01:52:10] API returned an error or missing notifications data.
+[2024-12-06 01:52:10] []
+[2024-12-06 01:52:15] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:15] API response code: 404
+[2024-12-06 01:52:15] API returned an error or missing notifications data.
+[2024-12-06 01:52:15] []
+[2024-12-06 01:52:20] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:20] API response code: 404
+[2024-12-06 01:52:20] API returned an error or missing notifications data.
+[2024-12-06 01:52:20] []
+[2024-12-06 01:52:25] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:25] API response code: 404
+[2024-12-06 01:52:25] API returned an error or missing notifications data.
+[2024-12-06 01:52:25] []
+[2024-12-06 01:52:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:52:44] API response code: 404
+[2024-12-06 01:52:44] API returned an error or missing notifications data.
+[2024-12-06 01:52:44] []
+[2024-12-06 01:53:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:53:44] API response code: 404
+[2024-12-06 01:53:44] API returned an error or missing notifications data.
+[2024-12-06 01:53:44] []
+[2024-12-06 01:54:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:54:44] API response code: 404
+[2024-12-06 01:54:44] API returned an error or missing notifications data.
+[2024-12-06 01:54:44] []
+[2024-12-06 01:55:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:55:44] API response code: 404
+[2024-12-06 01:55:44] API returned an error or missing notifications data.
+[2024-12-06 01:55:44] []
+[2024-12-06 01:56:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:56:44] API response code: 404
+[2024-12-06 01:56:44] API returned an error or missing notifications data.
+[2024-12-06 01:56:44] []
+[2024-12-06 01:57:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:57:44] API response code: 404
+[2024-12-06 01:57:44] API returned an error or missing notifications data.
+[2024-12-06 01:57:44] []
+[2024-12-06 01:58:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:58:44] API response code: 404
+[2024-12-06 01:58:44] API returned an error or missing notifications data.
+[2024-12-06 01:58:44] []
+[2024-12-06 01:59:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 01:59:44] API response code: 404
+[2024-12-06 01:59:44] API returned an error or missing notifications data.
+[2024-12-06 01:59:44] []
+[2024-12-06 02:00:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 02:00:44] API response code: 404
+[2024-12-06 02:00:44] API returned an error or missing notifications data.
+[2024-12-06 02:00:44] []
+[2024-12-06 02:01:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 02:01:44] API response code: 404
+[2024-12-06 02:01:44] API returned an error or missing notifications data.
+[2024-12-06 02:01:44] []
+[2024-12-06 02:02:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 02:02:44] API response code: 404
+[2024-12-06 02:02:44] API returned an error or missing notifications data.
+[2024-12-06 02:02:44] []
+[2024-12-06 02:03:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 02:03:44] API response code: 404
+[2024-12-06 02:03:44] API returned an error or missing notifications data.
+[2024-12-06 02:03:44] []
+[2024-12-06 02:04:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-06 02:04:44] API response code: 404
+[2024-12-06 02:04:44] API returned an error or missing notifications data.
+[2024-12-06 02:04:44] []
+[2024-12-08 04:14:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:14:49] API response code: 404
+[2024-12-08 04:14:49] API returned an error or missing notifications data.
+[2024-12-08 04:14:49] []
+[2024-12-08 04:14:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:14:54] API response code: 404
+[2024-12-08 04:14:54] API returned an error or missing notifications data.
+[2024-12-08 04:14:54] []
+[2024-12-08 04:14:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:14:59] API response code: 404
+[2024-12-08 04:14:59] API returned an error or missing notifications data.
+[2024-12-08 04:14:59] []
+[2024-12-08 04:15:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:04] API response code: 404
+[2024-12-08 04:15:04] API returned an error or missing notifications data.
+[2024-12-08 04:15:04] []
+[2024-12-08 04:15:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:08] API response code: 404
+[2024-12-08 04:15:08] API returned an error or missing notifications data.
+[2024-12-08 04:15:08] []
+[2024-12-08 04:15:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:13] API response code: 404
+[2024-12-08 04:15:13] API returned an error or missing notifications data.
+[2024-12-08 04:15:13] []
+[2024-12-08 04:15:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:19] API response code: 404
+[2024-12-08 04:15:19] API returned an error or missing notifications data.
+[2024-12-08 04:15:19] []
+[2024-12-08 04:15:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:23] API response code: 404
+[2024-12-08 04:15:23] API returned an error or missing notifications data.
+[2024-12-08 04:15:23] []
+[2024-12-08 04:15:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:28] API response code: 404
+[2024-12-08 04:15:28] API returned an error or missing notifications data.
+[2024-12-08 04:15:28] []
+[2024-12-08 04:15:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:33] API response code: 404
+[2024-12-08 04:15:33] API returned an error or missing notifications data.
+[2024-12-08 04:15:33] []
+[2024-12-08 04:15:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:38] API response code: 404
+[2024-12-08 04:15:38] API returned an error or missing notifications data.
+[2024-12-08 04:15:38] []
+[2024-12-08 04:15:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:43] API response code: 404
+[2024-12-08 04:15:43] API returned an error or missing notifications data.
+[2024-12-08 04:15:43] []
+[2024-12-08 04:15:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:48] API response code: 404
+[2024-12-08 04:15:48] API returned an error or missing notifications data.
+[2024-12-08 04:15:48] []
+[2024-12-08 04:15:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:53] API response code: 404
+[2024-12-08 04:15:53] API returned an error or missing notifications data.
+[2024-12-08 04:15:53] []
+[2024-12-08 04:15:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:15:58] API response code: 404
+[2024-12-08 04:15:58] API returned an error or missing notifications data.
+[2024-12-08 04:15:58] []
+[2024-12-08 04:16:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:03] API response code: 404
+[2024-12-08 04:16:03] API returned an error or missing notifications data.
+[2024-12-08 04:16:03] []
+[2024-12-08 04:16:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:08] API response code: 404
+[2024-12-08 04:16:08] API returned an error or missing notifications data.
+[2024-12-08 04:16:08] []
+[2024-12-08 04:16:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:14] API response code: 404
+[2024-12-08 04:16:14] API returned an error or missing notifications data.
+[2024-12-08 04:16:14] []
+[2024-12-08 04:16:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:19] API response code: 404
+[2024-12-08 04:16:19] API returned an error or missing notifications data.
+[2024-12-08 04:16:19] []
+[2024-12-08 04:16:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:24] API response code: 404
+[2024-12-08 04:16:24] API returned an error or missing notifications data.
+[2024-12-08 04:16:24] []
+[2024-12-08 04:16:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:28] API response code: 404
+[2024-12-08 04:16:28] API returned an error or missing notifications data.
+[2024-12-08 04:16:28] []
+[2024-12-08 04:16:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:33] API response code: 404
+[2024-12-08 04:16:33] API returned an error or missing notifications data.
+[2024-12-08 04:16:33] []
+[2024-12-08 04:16:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:38] API response code: 404
+[2024-12-08 04:16:38] API returned an error or missing notifications data.
+[2024-12-08 04:16:38] []
+[2024-12-08 04:16:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:43] API response code: 404
+[2024-12-08 04:16:43] API returned an error or missing notifications data.
+[2024-12-08 04:16:43] []
+[2024-12-08 04:16:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:48] API response code: 404
+[2024-12-08 04:16:48] API returned an error or missing notifications data.
+[2024-12-08 04:16:48] []
+[2024-12-08 04:16:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:53] API response code: 404
+[2024-12-08 04:16:53] API returned an error or missing notifications data.
+[2024-12-08 04:16:53] []
+[2024-12-08 04:16:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:16:58] API response code: 404
+[2024-12-08 04:16:58] API returned an error or missing notifications data.
+[2024-12-08 04:16:58] []
+[2024-12-08 04:17:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:03] API response code: 404
+[2024-12-08 04:17:03] API returned an error or missing notifications data.
+[2024-12-08 04:17:03] []
+[2024-12-08 04:17:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:08] API response code: 404
+[2024-12-08 04:17:08] API returned an error or missing notifications data.
+[2024-12-08 04:17:08] []
+[2024-12-08 04:17:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:13] API response code: 404
+[2024-12-08 04:17:13] API returned an error or missing notifications data.
+[2024-12-08 04:17:13] []
+[2024-12-08 04:17:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:19] API response code: 404
+[2024-12-08 04:17:19] API returned an error or missing notifications data.
+[2024-12-08 04:17:19] []
+[2024-12-08 04:17:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:23] API response code: 404
+[2024-12-08 04:17:23] API returned an error or missing notifications data.
+[2024-12-08 04:17:23] []
+[2024-12-08 04:17:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:28] API response code: 404
+[2024-12-08 04:17:28] API returned an error or missing notifications data.
+[2024-12-08 04:17:28] []
+[2024-12-08 04:17:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:33] API response code: 404
+[2024-12-08 04:17:33] API returned an error or missing notifications data.
+[2024-12-08 04:17:33] []
+[2024-12-08 04:17:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:38] API response code: 404
+[2024-12-08 04:17:38] API returned an error or missing notifications data.
+[2024-12-08 04:17:38] []
+[2024-12-08 04:17:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:43] API response code: 404
+[2024-12-08 04:17:43] API returned an error or missing notifications data.
+[2024-12-08 04:17:43] []
+[2024-12-08 04:17:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:48] API response code: 404
+[2024-12-08 04:17:48] API returned an error or missing notifications data.
+[2024-12-08 04:17:48] []
+[2024-12-08 04:17:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:53] API response code: 404
+[2024-12-08 04:17:53] API returned an error or missing notifications data.
+[2024-12-08 04:17:53] []
+[2024-12-08 04:17:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:17:58] API response code: 404
+[2024-12-08 04:17:58] API returned an error or missing notifications data.
+[2024-12-08 04:17:58] []
+[2024-12-08 04:18:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:03] API response code: 404
+[2024-12-08 04:18:03] API returned an error or missing notifications data.
+[2024-12-08 04:18:03] []
+[2024-12-08 04:18:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:08] API response code: 404
+[2024-12-08 04:18:08] API returned an error or missing notifications data.
+[2024-12-08 04:18:08] []
+[2024-12-08 04:18:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:13] API response code: 404
+[2024-12-08 04:18:13] API returned an error or missing notifications data.
+[2024-12-08 04:18:13] []
+[2024-12-08 04:18:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:18] API response code: 404
+[2024-12-08 04:18:18] API returned an error or missing notifications data.
+[2024-12-08 04:18:18] []
+[2024-12-08 04:18:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:23] API response code: 404
+[2024-12-08 04:18:23] API returned an error or missing notifications data.
+[2024-12-08 04:18:23] []
+[2024-12-08 04:18:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:28] API response code: 404
+[2024-12-08 04:18:28] API returned an error or missing notifications data.
+[2024-12-08 04:18:28] []
+[2024-12-08 04:18:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:33] API response code: 404
+[2024-12-08 04:18:33] API returned an error or missing notifications data.
+[2024-12-08 04:18:33] []
+[2024-12-08 04:18:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:38] API response code: 404
+[2024-12-08 04:18:38] API returned an error or missing notifications data.
+[2024-12-08 04:18:38] []
+[2024-12-08 04:18:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:43] API response code: 404
+[2024-12-08 04:18:43] API returned an error or missing notifications data.
+[2024-12-08 04:18:43] []
+[2024-12-08 04:18:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:48] API response code: 404
+[2024-12-08 04:18:48] API returned an error or missing notifications data.
+[2024-12-08 04:18:48] []
+[2024-12-08 04:18:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:53] API response code: 404
+[2024-12-08 04:18:53] API returned an error or missing notifications data.
+[2024-12-08 04:18:53] []
+[2024-12-08 04:18:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:18:58] API response code: 404
+[2024-12-08 04:18:58] API returned an error or missing notifications data.
+[2024-12-08 04:18:58] []
+[2024-12-08 04:19:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:03] API response code: 404
+[2024-12-08 04:19:03] API returned an error or missing notifications data.
+[2024-12-08 04:19:03] []
+[2024-12-08 04:19:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:08] API response code: 404
+[2024-12-08 04:19:08] API returned an error or missing notifications data.
+[2024-12-08 04:19:08] []
+[2024-12-08 04:19:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:13] API response code: 404
+[2024-12-08 04:19:13] API returned an error or missing notifications data.
+[2024-12-08 04:19:13] []
+[2024-12-08 04:19:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:18] API response code: 404
+[2024-12-08 04:19:18] API returned an error or missing notifications data.
+[2024-12-08 04:19:18] []
+[2024-12-08 04:19:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:23] API response code: 404
+[2024-12-08 04:19:23] API returned an error or missing notifications data.
+[2024-12-08 04:19:23] []
+[2024-12-08 04:19:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:28] API response code: 404
+[2024-12-08 04:19:28] API returned an error or missing notifications data.
+[2024-12-08 04:19:28] []
+[2024-12-08 04:19:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:33] API response code: 404
+[2024-12-08 04:19:33] API returned an error or missing notifications data.
+[2024-12-08 04:19:33] []
+[2024-12-08 04:19:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:38] API response code: 404
+[2024-12-08 04:19:38] API returned an error or missing notifications data.
+[2024-12-08 04:19:38] []
+[2024-12-08 04:19:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:43] API response code: 404
+[2024-12-08 04:19:43] API returned an error or missing notifications data.
+[2024-12-08 04:19:43] []
+[2024-12-08 04:19:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:48] API response code: 404
+[2024-12-08 04:19:48] API returned an error or missing notifications data.
+[2024-12-08 04:19:48] []
+[2024-12-08 04:19:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:54] API response code: 404
+[2024-12-08 04:19:54] API returned an error or missing notifications data.
+[2024-12-08 04:19:54] []
+[2024-12-08 04:19:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:19:58] API response code: 404
+[2024-12-08 04:19:58] API returned an error or missing notifications data.
+[2024-12-08 04:19:58] []
+[2024-12-08 04:20:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:03] API response code: 404
+[2024-12-08 04:20:03] API returned an error or missing notifications data.
+[2024-12-08 04:20:03] []
+[2024-12-08 04:20:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:08] API response code: 404
+[2024-12-08 04:20:08] API returned an error or missing notifications data.
+[2024-12-08 04:20:08] []
+[2024-12-08 04:20:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:13] API response code: 404
+[2024-12-08 04:20:13] API returned an error or missing notifications data.
+[2024-12-08 04:20:13] []
+[2024-12-08 04:20:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:18] API response code: 404
+[2024-12-08 04:20:18] API returned an error or missing notifications data.
+[2024-12-08 04:20:18] []
+[2024-12-08 04:20:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:23] API response code: 404
+[2024-12-08 04:20:23] API returned an error or missing notifications data.
+[2024-12-08 04:20:23] []
+[2024-12-08 04:20:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:28] API response code: 404
+[2024-12-08 04:20:28] API returned an error or missing notifications data.
+[2024-12-08 04:20:28] []
+[2024-12-08 04:20:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:33] API response code: 404
+[2024-12-08 04:20:33] API returned an error or missing notifications data.
+[2024-12-08 04:20:33] []
+[2024-12-08 04:20:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:38] API response code: 404
+[2024-12-08 04:20:38] API returned an error or missing notifications data.
+[2024-12-08 04:20:38] []
+[2024-12-08 04:20:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:43] API response code: 404
+[2024-12-08 04:20:43] API returned an error or missing notifications data.
+[2024-12-08 04:20:43] []
+[2024-12-08 04:20:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:48] API response code: 404
+[2024-12-08 04:20:48] API returned an error or missing notifications data.
+[2024-12-08 04:20:48] []
+[2024-12-08 04:20:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:53] API response code: 404
+[2024-12-08 04:20:53] API returned an error or missing notifications data.
+[2024-12-08 04:20:53] []
+[2024-12-08 04:20:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:20:58] API response code: 404
+[2024-12-08 04:20:58] API returned an error or missing notifications data.
+[2024-12-08 04:20:58] []
+[2024-12-08 04:21:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:03] API response code: 404
+[2024-12-08 04:21:03] API returned an error or missing notifications data.
+[2024-12-08 04:21:03] []
+[2024-12-08 04:21:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:08] API response code: 404
+[2024-12-08 04:21:08] API returned an error or missing notifications data.
+[2024-12-08 04:21:08] []
+[2024-12-08 04:21:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:13] API response code: 404
+[2024-12-08 04:21:13] API returned an error or missing notifications data.
+[2024-12-08 04:21:13] []
+[2024-12-08 04:21:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:18] API response code: 404
+[2024-12-08 04:21:18] API returned an error or missing notifications data.
+[2024-12-08 04:21:18] []
+[2024-12-08 04:21:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:23] API response code: 404
+[2024-12-08 04:21:23] API returned an error or missing notifications data.
+[2024-12-08 04:21:23] []
+[2024-12-08 04:21:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:28] API response code: 404
+[2024-12-08 04:21:28] API returned an error or missing notifications data.
+[2024-12-08 04:21:28] []
+[2024-12-08 04:21:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:33] API response code: 404
+[2024-12-08 04:21:34] API returned an error or missing notifications data.
+[2024-12-08 04:21:34] []
+[2024-12-08 04:21:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:38] API response code: 404
+[2024-12-08 04:21:38] API returned an error or missing notifications data.
+[2024-12-08 04:21:38] []
+[2024-12-08 04:21:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:43] API response code: 404
+[2024-12-08 04:21:43] API returned an error or missing notifications data.
+[2024-12-08 04:21:43] []
+[2024-12-08 04:21:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:48] API response code: 404
+[2024-12-08 04:21:48] API returned an error or missing notifications data.
+[2024-12-08 04:21:48] []
+[2024-12-08 04:21:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:53] API response code: 404
+[2024-12-08 04:21:53] API returned an error or missing notifications data.
+[2024-12-08 04:21:53] []
+[2024-12-08 04:21:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:21:58] API response code: 404
+[2024-12-08 04:21:58] API returned an error or missing notifications data.
+[2024-12-08 04:21:58] []
+[2024-12-08 04:22:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:03] API response code: 404
+[2024-12-08 04:22:03] API returned an error or missing notifications data.
+[2024-12-08 04:22:03] []
+[2024-12-08 04:22:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:08] API response code: 404
+[2024-12-08 04:22:08] API returned an error or missing notifications data.
+[2024-12-08 04:22:08] []
+[2024-12-08 04:22:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:13] API response code: 404
+[2024-12-08 04:22:13] API returned an error or missing notifications data.
+[2024-12-08 04:22:13] []
+[2024-12-08 04:22:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:18] API response code: 404
+[2024-12-08 04:22:18] API returned an error or missing notifications data.
+[2024-12-08 04:22:18] []
+[2024-12-08 04:22:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:23] API response code: 404
+[2024-12-08 04:22:23] API returned an error or missing notifications data.
+[2024-12-08 04:22:23] []
+[2024-12-08 04:22:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:28] API response code: 404
+[2024-12-08 04:22:28] API returned an error or missing notifications data.
+[2024-12-08 04:22:28] []
+[2024-12-08 04:22:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:33] API response code: 404
+[2024-12-08 04:22:33] API returned an error or missing notifications data.
+[2024-12-08 04:22:33] []
+[2024-12-08 04:22:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:38] API response code: 404
+[2024-12-08 04:22:38] API returned an error or missing notifications data.
+[2024-12-08 04:22:38] []
+[2024-12-08 04:22:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:43] API response code: 404
+[2024-12-08 04:22:43] API returned an error or missing notifications data.
+[2024-12-08 04:22:43] []
+[2024-12-08 04:22:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:48] API response code: 404
+[2024-12-08 04:22:48] API returned an error or missing notifications data.
+[2024-12-08 04:22:48] []
+[2024-12-08 04:22:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:53] API response code: 404
+[2024-12-08 04:22:53] API returned an error or missing notifications data.
+[2024-12-08 04:22:53] []
+[2024-12-08 04:22:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:22:58] API response code: 404
+[2024-12-08 04:22:58] API returned an error or missing notifications data.
+[2024-12-08 04:22:58] []
+[2024-12-08 04:23:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:03] API response code: 404
+[2024-12-08 04:23:03] API returned an error or missing notifications data.
+[2024-12-08 04:23:03] []
+[2024-12-08 04:23:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:08] API response code: 404
+[2024-12-08 04:23:08] API returned an error or missing notifications data.
+[2024-12-08 04:23:08] []
+[2024-12-08 04:23:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:13] API response code: 404
+[2024-12-08 04:23:13] API returned an error or missing notifications data.
+[2024-12-08 04:23:13] []
+[2024-12-08 04:23:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:18] API response code: 404
+[2024-12-08 04:23:18] API returned an error or missing notifications data.
+[2024-12-08 04:23:18] []
+[2024-12-08 04:23:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:23] API response code: 404
+[2024-12-08 04:23:23] API returned an error or missing notifications data.
+[2024-12-08 04:23:23] []
+[2024-12-08 04:23:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:28] API response code: 404
+[2024-12-08 04:23:28] API returned an error or missing notifications data.
+[2024-12-08 04:23:28] []
+[2024-12-08 04:23:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:33] API response code: 404
+[2024-12-08 04:23:33] API returned an error or missing notifications data.
+[2024-12-08 04:23:33] []
+[2024-12-08 04:23:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:38] API response code: 404
+[2024-12-08 04:23:38] API returned an error or missing notifications data.
+[2024-12-08 04:23:38] []
+[2024-12-08 04:23:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:43] API response code: 404
+[2024-12-08 04:23:43] API returned an error or missing notifications data.
+[2024-12-08 04:23:43] []
+[2024-12-08 04:23:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:48] API response code: 404
+[2024-12-08 04:23:48] API returned an error or missing notifications data.
+[2024-12-08 04:23:48] []
+[2024-12-08 04:23:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:53] API response code: 404
+[2024-12-08 04:23:53] API returned an error or missing notifications data.
+[2024-12-08 04:23:53] []
+[2024-12-08 04:23:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:23:58] API response code: 404
+[2024-12-08 04:23:58] API returned an error or missing notifications data.
+[2024-12-08 04:23:58] []
+[2024-12-08 04:24:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:03] API response code: 404
+[2024-12-08 04:24:03] API returned an error or missing notifications data.
+[2024-12-08 04:24:03] []
+[2024-12-08 04:24:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:08] API response code: 404
+[2024-12-08 04:24:08] API returned an error or missing notifications data.
+[2024-12-08 04:24:08] []
+[2024-12-08 04:24:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:13] API response code: 404
+[2024-12-08 04:24:13] API returned an error or missing notifications data.
+[2024-12-08 04:24:13] []
+[2024-12-08 04:24:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:18] API response code: 404
+[2024-12-08 04:24:18] API returned an error or missing notifications data.
+[2024-12-08 04:24:18] []
+[2024-12-08 04:24:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:23] API response code: 404
+[2024-12-08 04:24:23] API returned an error or missing notifications data.
+[2024-12-08 04:24:23] []
+[2024-12-08 04:24:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:28] API response code: 404
+[2024-12-08 04:24:28] API returned an error or missing notifications data.
+[2024-12-08 04:24:28] []
+[2024-12-08 04:24:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:33] API response code: 404
+[2024-12-08 04:24:33] API returned an error or missing notifications data.
+[2024-12-08 04:24:33] []
+[2024-12-08 04:24:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:38] API response code: 404
+[2024-12-08 04:24:38] API returned an error or missing notifications data.
+[2024-12-08 04:24:38] []
+[2024-12-08 04:24:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:43] API response code: 404
+[2024-12-08 04:24:43] API returned an error or missing notifications data.
+[2024-12-08 04:24:43] []
+[2024-12-08 04:24:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:48] API response code: 404
+[2024-12-08 04:24:48] API returned an error or missing notifications data.
+[2024-12-08 04:24:48] []
+[2024-12-08 04:24:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:53] API response code: 404
+[2024-12-08 04:24:53] API returned an error or missing notifications data.
+[2024-12-08 04:24:53] []
+[2024-12-08 04:24:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:24:58] API response code: 404
+[2024-12-08 04:24:58] API returned an error or missing notifications data.
+[2024-12-08 04:24:58] []
+[2024-12-08 04:25:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:03] API response code: 404
+[2024-12-08 04:25:03] API returned an error or missing notifications data.
+[2024-12-08 04:25:03] []
+[2024-12-08 04:25:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:08] API response code: 404
+[2024-12-08 04:25:08] API returned an error or missing notifications data.
+[2024-12-08 04:25:08] []
+[2024-12-08 04:25:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:13] API response code: 404
+[2024-12-08 04:25:13] API returned an error or missing notifications data.
+[2024-12-08 04:25:13] []
+[2024-12-08 04:25:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:18] API response code: 404
+[2024-12-08 04:25:18] API returned an error or missing notifications data.
+[2024-12-08 04:25:18] []
+[2024-12-08 04:25:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:23] API response code: 404
+[2024-12-08 04:25:23] API returned an error or missing notifications data.
+[2024-12-08 04:25:23] []
+[2024-12-08 04:25:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:28] API response code: 404
+[2024-12-08 04:25:28] API returned an error or missing notifications data.
+[2024-12-08 04:25:28] []
+[2024-12-08 04:25:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:33] API response code: 404
+[2024-12-08 04:25:33] API returned an error or missing notifications data.
+[2024-12-08 04:25:33] []
+[2024-12-08 04:25:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:38] API response code: 404
+[2024-12-08 04:25:38] API returned an error or missing notifications data.
+[2024-12-08 04:25:38] []
+[2024-12-08 04:25:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:43] API response code: 404
+[2024-12-08 04:25:43] API returned an error or missing notifications data.
+[2024-12-08 04:25:43] []
+[2024-12-08 04:25:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:48] API response code: 404
+[2024-12-08 04:25:48] API returned an error or missing notifications data.
+[2024-12-08 04:25:48] []
+[2024-12-08 04:25:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:53] API response code: 404
+[2024-12-08 04:25:53] API returned an error or missing notifications data.
+[2024-12-08 04:25:53] []
+[2024-12-08 04:25:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:25:58] API response code: 404
+[2024-12-08 04:25:58] API returned an error or missing notifications data.
+[2024-12-08 04:25:58] []
+[2024-12-08 04:26:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:03] API response code: 404
+[2024-12-08 04:26:03] API returned an error or missing notifications data.
+[2024-12-08 04:26:03] []
+[2024-12-08 04:26:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:08] API response code: 404
+[2024-12-08 04:26:08] API returned an error or missing notifications data.
+[2024-12-08 04:26:08] []
+[2024-12-08 04:26:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:13] API response code: 404
+[2024-12-08 04:26:13] API returned an error or missing notifications data.
+[2024-12-08 04:26:13] []
+[2024-12-08 04:26:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:18] API response code: 404
+[2024-12-08 04:26:18] API returned an error or missing notifications data.
+[2024-12-08 04:26:18] []
+[2024-12-08 04:26:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:23] API response code: 404
+[2024-12-08 04:26:23] API returned an error or missing notifications data.
+[2024-12-08 04:26:23] []
+[2024-12-08 04:26:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:28] API response code: 404
+[2024-12-08 04:26:28] API returned an error or missing notifications data.
+[2024-12-08 04:26:28] []
+[2024-12-08 04:26:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:33] API response code: 404
+[2024-12-08 04:26:33] API returned an error or missing notifications data.
+[2024-12-08 04:26:33] []
+[2024-12-08 04:26:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:38] API response code: 404
+[2024-12-08 04:26:38] API returned an error or missing notifications data.
+[2024-12-08 04:26:38] []
+[2024-12-08 04:26:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:43] API response code: 404
+[2024-12-08 04:26:43] API returned an error or missing notifications data.
+[2024-12-08 04:26:43] []
+[2024-12-08 04:26:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:48] API response code: 404
+[2024-12-08 04:26:48] API returned an error or missing notifications data.
+[2024-12-08 04:26:48] []
+[2024-12-08 04:26:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:53] API response code: 404
+[2024-12-08 04:26:53] API returned an error or missing notifications data.
+[2024-12-08 04:26:53] []
+[2024-12-08 04:26:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:26:58] API response code: 404
+[2024-12-08 04:26:58] API returned an error or missing notifications data.
+[2024-12-08 04:26:58] []
+[2024-12-08 04:27:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:03] API response code: 404
+[2024-12-08 04:27:03] API returned an error or missing notifications data.
+[2024-12-08 04:27:03] []
+[2024-12-08 04:27:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:08] API response code: 404
+[2024-12-08 04:27:08] API returned an error or missing notifications data.
+[2024-12-08 04:27:08] []
+[2024-12-08 04:27:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:13] API response code: 404
+[2024-12-08 04:27:13] API returned an error or missing notifications data.
+[2024-12-08 04:27:13] []
+[2024-12-08 04:27:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:18] API response code: 404
+[2024-12-08 04:27:18] API returned an error or missing notifications data.
+[2024-12-08 04:27:18] []
+[2024-12-08 04:27:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:23] API response code: 404
+[2024-12-08 04:27:23] API returned an error or missing notifications data.
+[2024-12-08 04:27:23] []
+[2024-12-08 04:27:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:28] API response code: 404
+[2024-12-08 04:27:28] API returned an error or missing notifications data.
+[2024-12-08 04:27:28] []
+[2024-12-08 04:27:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:33] API response code: 404
+[2024-12-08 04:27:33] API returned an error or missing notifications data.
+[2024-12-08 04:27:33] []
+[2024-12-08 04:27:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:38] API response code: 404
+[2024-12-08 04:27:38] API returned an error or missing notifications data.
+[2024-12-08 04:27:38] []
+[2024-12-08 04:27:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:43] API response code: 404
+[2024-12-08 04:27:43] API returned an error or missing notifications data.
+[2024-12-08 04:27:43] []
+[2024-12-08 04:27:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:48] API response code: 404
+[2024-12-08 04:27:48] API returned an error or missing notifications data.
+[2024-12-08 04:27:48] []
+[2024-12-08 04:27:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:53] API response code: 404
+[2024-12-08 04:27:53] API returned an error or missing notifications data.
+[2024-12-08 04:27:53] []
+[2024-12-08 04:27:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:27:58] API response code: 404
+[2024-12-08 04:27:58] API returned an error or missing notifications data.
+[2024-12-08 04:27:58] []
+[2024-12-08 04:28:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:03] API response code: 404
+[2024-12-08 04:28:03] API returned an error or missing notifications data.
+[2024-12-08 04:28:03] []
+[2024-12-08 04:28:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:08] API response code: 404
+[2024-12-08 04:28:08] API returned an error or missing notifications data.
+[2024-12-08 04:28:08] []
+[2024-12-08 04:28:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:13] API response code: 404
+[2024-12-08 04:28:13] API returned an error or missing notifications data.
+[2024-12-08 04:28:13] []
+[2024-12-08 04:28:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:18] API response code: 404
+[2024-12-08 04:28:18] API returned an error or missing notifications data.
+[2024-12-08 04:28:18] []
+[2024-12-08 04:28:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:23] API response code: 404
+[2024-12-08 04:28:23] API returned an error or missing notifications data.
+[2024-12-08 04:28:23] []
+[2024-12-08 04:28:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:28] API response code: 404
+[2024-12-08 04:28:28] API returned an error or missing notifications data.
+[2024-12-08 04:28:28] []
+[2024-12-08 04:28:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:33] API response code: 404
+[2024-12-08 04:28:33] API returned an error or missing notifications data.
+[2024-12-08 04:28:33] []
+[2024-12-08 04:28:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:38] API response code: 404
+[2024-12-08 04:28:38] API returned an error or missing notifications data.
+[2024-12-08 04:28:38] []
+[2024-12-08 04:28:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:43] API response code: 404
+[2024-12-08 04:28:43] API returned an error or missing notifications data.
+[2024-12-08 04:28:43] []
+[2024-12-08 04:28:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:48] API response code: 404
+[2024-12-08 04:28:48] API returned an error or missing notifications data.
+[2024-12-08 04:28:48] []
+[2024-12-08 04:28:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:53] API response code: 404
+[2024-12-08 04:28:53] API returned an error or missing notifications data.
+[2024-12-08 04:28:53] []
+[2024-12-08 04:28:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:28:58] API response code: 404
+[2024-12-08 04:28:58] API returned an error or missing notifications data.
+[2024-12-08 04:28:58] []
+[2024-12-08 04:29:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:03] API response code: 404
+[2024-12-08 04:29:03] API returned an error or missing notifications data.
+[2024-12-08 04:29:03] []
+[2024-12-08 04:29:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:08] API response code: 404
+[2024-12-08 04:29:08] API returned an error or missing notifications data.
+[2024-12-08 04:29:08] []
+[2024-12-08 04:29:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:13] API response code: 404
+[2024-12-08 04:29:13] API returned an error or missing notifications data.
+[2024-12-08 04:29:13] []
+[2024-12-08 04:29:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:18] API response code: 404
+[2024-12-08 04:29:18] API returned an error or missing notifications data.
+[2024-12-08 04:29:18] []
+[2024-12-08 04:29:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:23] API response code: 404
+[2024-12-08 04:29:23] API returned an error or missing notifications data.
+[2024-12-08 04:29:23] []
+[2024-12-08 04:29:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:28] API response code: 404
+[2024-12-08 04:29:28] API returned an error or missing notifications data.
+[2024-12-08 04:29:28] []
+[2024-12-08 04:29:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:33] API response code: 404
+[2024-12-08 04:29:33] API returned an error or missing notifications data.
+[2024-12-08 04:29:33] []
+[2024-12-08 04:29:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:38] API response code: 404
+[2024-12-08 04:29:38] API returned an error or missing notifications data.
+[2024-12-08 04:29:38] []
+[2024-12-08 04:29:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:43] API response code: 404
+[2024-12-08 04:29:43] API returned an error or missing notifications data.
+[2024-12-08 04:29:43] []
+[2024-12-08 04:29:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:48] API response code: 404
+[2024-12-08 04:29:48] API returned an error or missing notifications data.
+[2024-12-08 04:29:48] []
+[2024-12-08 04:29:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:54] API response code: 404
+[2024-12-08 04:29:54] API returned an error or missing notifications data.
+[2024-12-08 04:29:54] []
+[2024-12-08 04:29:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:29:58] API response code: 404
+[2024-12-08 04:29:58] API returned an error or missing notifications data.
+[2024-12-08 04:29:58] []
+[2024-12-08 04:30:03] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:03] API response code: 404
+[2024-12-08 04:30:03] API returned an error or missing notifications data.
+[2024-12-08 04:30:03] []
+[2024-12-08 04:30:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:08] API response code: 404
+[2024-12-08 04:30:08] API returned an error or missing notifications data.
+[2024-12-08 04:30:08] []
+[2024-12-08 04:30:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:13] API response code: 404
+[2024-12-08 04:30:13] API returned an error or missing notifications data.
+[2024-12-08 04:30:13] []
+[2024-12-08 04:30:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:18] API response code: 404
+[2024-12-08 04:30:18] API returned an error or missing notifications data.
+[2024-12-08 04:30:18] []
+[2024-12-08 04:30:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:23] API response code: 404
+[2024-12-08 04:30:23] API returned an error or missing notifications data.
+[2024-12-08 04:30:23] []
+[2024-12-08 04:30:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:28] API response code: 404
+[2024-12-08 04:30:28] API returned an error or missing notifications data.
+[2024-12-08 04:30:28] []
+[2024-12-08 04:30:33] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:33] API response code: 404
+[2024-12-08 04:30:33] API returned an error or missing notifications data.
+[2024-12-08 04:30:33] []
+[2024-12-08 04:30:38] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:38] API response code: 404
+[2024-12-08 04:30:38] API returned an error or missing notifications data.
+[2024-12-08 04:30:38] []
+[2024-12-08 04:30:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:43] API response code: 404
+[2024-12-08 04:30:43] API returned an error or missing notifications data.
+[2024-12-08 04:30:43] []
+[2024-12-08 04:30:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:48] API response code: 404
+[2024-12-08 04:30:48] API returned an error or missing notifications data.
+[2024-12-08 04:30:48] []
+[2024-12-08 04:30:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:53] API response code: 404
+[2024-12-08 04:30:53] API returned an error or missing notifications data.
+[2024-12-08 04:30:53] []
+[2024-12-08 04:30:55] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:30:56] CURL executed successfully. Response received.
+[2024-12-08 04:30:56] HTTP response code: 200
+[2024-12-08 04:30:56] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:30:56] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:30:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:57] API response code: 404
+[2024-12-08 04:30:57] API returned an error or missing notifications data.
+[2024-12-08 04:30:57] []
+[2024-12-08 04:30:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:30:58] API response code: 200
+[2024-12-08 04:30:58] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:30:58] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:30:58] API response code: 404
+[2024-12-08 04:30:58] Failed to decode API response or API returned an error.
+[2024-12-08 04:30:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:30:59] API response code: 404
+[2024-12-08 04:30:59] API returned an error or missing notifications data.
+[2024-12-08 04:30:59] []
+[2024-12-08 04:31:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:31:04] API response code: 404
+[2024-12-08 04:31:04] API returned an error or missing notifications data.
+[2024-12-08 04:31:04] []
+[2024-12-08 04:31:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:31:09] API response code: 404
+[2024-12-08 04:31:09] API returned an error or missing notifications data.
+[2024-12-08 04:31:09] []
+[2024-12-08 04:31:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:31:14] API response code: 404
+[2024-12-08 04:31:14] API returned an error or missing notifications data.
+[2024-12-08 04:31:14] []
+[2024-12-08 04:31:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:31:19] API response code: 404
+[2024-12-08 04:31:19] API returned an error or missing notifications data.
+[2024-12-08 04:31:19] []
+[2024-12-08 04:31:21] UserID was not set in the session.
+[2024-12-08 04:31:21] []
+[2024-12-08 04:31:26] UserID was not set in the session.
+[2024-12-08 04:31:26] []
+[2024-12-08 04:31:31] UserID was not set in the session.
+[2024-12-08 04:31:31] []
+[2024-12-08 04:31:33] UserID was not set in the session.
+[2024-12-08 04:31:33] []
+[2024-12-08 04:31:37] UserID was not set in the session.
+[2024-12-08 04:31:37] []
+[2024-12-08 04:31:39] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:31:40] CURL executed successfully. Response received.
+[2024-12-08 04:31:40] HTTP response code: 200
+[2024-12-08 04:31:40] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:31:40] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:31:40] UserID was not set in the session.
+[2024-12-08 04:31:40] []
+[2024-12-08 04:31:41] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:31:42] API response code: 200
+[2024-12-08 04:31:42] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:31:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:31:42] API response code: 404
+[2024-12-08 04:31:42] Failed to decode API response or API returned an error.
+[2024-12-08 04:31:42] UserID was not set in the session.
+[2024-12-08 04:31:42] []
+[2024-12-08 04:31:46] UserID was not set in the session.
+[2024-12-08 04:31:46] []
+[2024-12-08 04:31:51] UserID was not set in the session.
+[2024-12-08 04:31:51] []
+[2024-12-08 04:31:56] UserID was not set in the session.
+[2024-12-08 04:31:56] []
+[2024-12-08 04:32:01] UserID was not set in the session.
+[2024-12-08 04:32:01] []
+[2024-12-08 04:32:06] UserID was not set in the session.
+[2024-12-08 04:32:06] []
+[2024-12-08 04:32:10] UserID was not set in the session.
+[2024-12-08 04:32:10] []
+[2024-12-08 04:32:15] UserID was not set in the session.
+[2024-12-08 04:32:15] []
+[2024-12-08 04:32:20] UserID was not set in the session.
+[2024-12-08 04:32:20] []
+[2024-12-08 04:32:25] UserID was not set in the session.
+[2024-12-08 04:32:25] []
+[2024-12-08 04:32:30] UserID was not set in the session.
+[2024-12-08 04:32:30] []
+[2024-12-08 04:32:35] UserID was not set in the session.
+[2024-12-08 04:32:35] []
+[2024-12-08 04:32:40] UserID was not set in the session.
+[2024-12-08 04:32:40] []
+[2024-12-08 04:32:45] UserID was not set in the session.
+[2024-12-08 04:32:45] []
+[2024-12-08 04:32:50] UserID was not set in the session.
+[2024-12-08 04:32:50] []
+[2024-12-08 04:32:55] UserID was not set in the session.
+[2024-12-08 04:32:55] []
+[2024-12-08 04:33:00] UserID was not set in the session.
+[2024-12-08 04:33:00] []
+[2024-12-08 04:33:05] UserID was not set in the session.
+[2024-12-08 04:33:05] []
+[2024-12-08 04:33:11] UserID was not set in the session.
+[2024-12-08 04:33:11] []
+[2024-12-08 04:33:16] UserID was not set in the session.
+[2024-12-08 04:33:16] []
+[2024-12-08 04:33:21] UserID was not set in the session.
+[2024-12-08 04:33:21] []
+[2024-12-08 04:33:26] UserID was not set in the session.
+[2024-12-08 04:33:26] []
+[2024-12-08 04:33:31] UserID was not set in the session.
+[2024-12-08 04:33:31] []
+[2024-12-08 04:33:36] UserID was not set in the session.
+[2024-12-08 04:33:36] []
+[2024-12-08 04:33:41] UserID was not set in the session.
+[2024-12-08 04:33:41] []
+[2024-12-08 04:33:45] UserID was not set in the session.
+[2024-12-08 04:33:45] []
+[2024-12-08 04:33:51] UserID was not set in the session.
+[2024-12-08 04:33:51] []
+[2024-12-08 04:33:56] UserID was not set in the session.
+[2024-12-08 04:33:56] []
+[2024-12-08 04:34:01] UserID was not set in the session.
+[2024-12-08 04:34:01] []
+[2024-12-08 04:34:06] UserID was not set in the session.
+[2024-12-08 04:34:06] []
+[2024-12-08 04:34:11] UserID was not set in the session.
+[2024-12-08 04:34:11] []
+[2024-12-08 04:34:16] UserID was not set in the session.
+[2024-12-08 04:34:16] []
+[2024-12-08 04:34:21] UserID was not set in the session.
+[2024-12-08 04:34:21] []
+[2024-12-08 04:34:26] UserID was not set in the session.
+[2024-12-08 04:34:26] []
+[2024-12-08 04:34:31] UserID was not set in the session.
+[2024-12-08 04:34:31] []
+[2024-12-08 04:34:35] UserID was not set in the session.
+[2024-12-08 04:34:35] []
+[2024-12-08 04:34:37] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:34:37] CURL executed successfully. Response received.
+[2024-12-08 04:34:37] HTTP response code: 200
+[2024-12-08 04:34:37] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:34:37] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:34:38] UserID was not set in the session.
+[2024-12-08 04:34:38] []
+[2024-12-08 04:34:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:34:39] API response code: 200
+[2024-12-08 04:34:39] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:34:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:34:40] API response code: 404
+[2024-12-08 04:34:40] Failed to decode API response or API returned an error.
+[2024-12-08 04:34:40] UserID was not set in the session.
+[2024-12-08 04:34:40] []
+[2024-12-08 04:34:46] UserID was not set in the session.
+[2024-12-08 04:34:46] []
+[2024-12-08 04:34:51] UserID was not set in the session.
+[2024-12-08 04:34:51] []
+[2024-12-08 04:34:56] UserID was not set in the session.
+[2024-12-08 04:34:56] []
+[2024-12-08 04:35:00] UserID was not set in the session.
+[2024-12-08 04:35:00] []
+[2024-12-08 04:35:05] UserID was not set in the session.
+[2024-12-08 04:35:05] []
+[2024-12-08 04:35:10] UserID was not set in the session.
+[2024-12-08 04:35:10] []
+[2024-12-08 04:35:15] UserID was not set in the session.
+[2024-12-08 04:35:15] []
+[2024-12-08 04:35:20] UserID was not set in the session.
+[2024-12-08 04:35:20] []
+[2024-12-08 04:35:25] UserID was not set in the session.
+[2024-12-08 04:35:25] []
+[2024-12-08 04:35:31] UserID was not set in the session.
+[2024-12-08 04:35:31] []
+[2024-12-08 04:35:35] UserID was not set in the session.
+[2024-12-08 04:35:35] []
+[2024-12-08 04:35:41] UserID was not set in the session.
+[2024-12-08 04:35:41] []
+[2024-12-08 04:35:45] UserID was not set in the session.
+[2024-12-08 04:35:45] []
+[2024-12-08 04:36:42] UserID was not set in the session.
+[2024-12-08 04:36:42] []
+[2024-12-08 04:37:19] UserID was not set in the session.
+[2024-12-08 04:37:19] []
+[2024-12-08 04:37:20] UserID was not set in the session.
+[2024-12-08 04:37:20] []
+[2024-12-08 04:37:22] UserID was not set in the session.
+[2024-12-08 04:37:22] []
+[2024-12-08 04:37:27] UserID was not set in the session.
+[2024-12-08 04:37:27] []
+[2024-12-08 04:37:32] UserID was not set in the session.
+[2024-12-08 04:37:32] []
+[2024-12-08 04:37:37] UserID was not set in the session.
+[2024-12-08 04:37:37] []
+[2024-12-08 04:37:42] UserID was not set in the session.
+[2024-12-08 04:37:42] []
+[2024-12-08 04:37:47] UserID was not set in the session.
+[2024-12-08 04:37:47] []
+[2024-12-08 04:37:52] UserID was not set in the session.
+[2024-12-08 04:37:52] []
+[2024-12-08 04:37:57] UserID was not set in the session.
+[2024-12-08 04:37:57] []
+[2024-12-08 04:37:57] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:37:58] CURL executed successfully. Response received.
+[2024-12-08 04:37:58] HTTP response code: 200
+[2024-12-08 04:37:58] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:37:58] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:37:58] UserID was not set in the session.
+[2024-12-08 04:37:58] []
+[2024-12-08 04:38:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:38:00] API response code: 200
+[2024-12-08 04:38:00] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:38:00] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:38:00] API response code: 404
+[2024-12-08 04:38:00] Failed to decode API response or API returned an error.
+[2024-12-08 04:38:01] UserID was not set in the session.
+[2024-12-08 04:38:01] []
+[2024-12-08 04:38:06] UserID was not set in the session.
+[2024-12-08 04:38:06] []
+[2024-12-08 04:38:08] UserID was not set in the session.
+[2024-12-08 04:38:08] []
+[2024-12-08 04:38:13] UserID was not set in the session.
+[2024-12-08 04:38:13] []
+[2024-12-08 04:38:18] UserID was not set in the session.
+[2024-12-08 04:38:18] []
+[2024-12-08 04:38:23] UserID was not set in the session.
+[2024-12-08 04:38:23] []
+[2024-12-08 04:38:28] UserID was not set in the session.
+[2024-12-08 04:38:28] []
+[2024-12-08 04:38:33] UserID was not set in the session.
+[2024-12-08 04:38:33] []
+[2024-12-08 04:38:38] UserID was not set in the session.
+[2024-12-08 04:38:38] []
+[2024-12-08 04:38:43] UserID was not set in the session.
+[2024-12-08 04:38:43] []
+[2024-12-08 04:38:48] UserID was not set in the session.
+[2024-12-08 04:38:48] []
+[2024-12-08 04:38:53] UserID was not set in the session.
+[2024-12-08 04:38:53] []
+[2024-12-08 04:38:58] UserID was not set in the session.
+[2024-12-08 04:38:58] []
+[2024-12-08 04:39:03] UserID was not set in the session.
+[2024-12-08 04:39:03] []
+[2024-12-08 04:39:09] UserID was not set in the session.
+[2024-12-08 04:39:09] []
+[2024-12-08 04:39:13] UserID was not set in the session.
+[2024-12-08 04:39:13] []
+[2024-12-08 04:39:18] UserID was not set in the session.
+[2024-12-08 04:39:18] []
+[2024-12-08 04:39:23] UserID was not set in the session.
+[2024-12-08 04:39:23] []
+[2024-12-08 04:39:28] UserID was not set in the session.
+[2024-12-08 04:39:28] []
+[2024-12-08 04:39:33] UserID was not set in the session.
+[2024-12-08 04:39:33] []
+[2024-12-08 04:39:38] UserID was not set in the session.
+[2024-12-08 04:39:38] []
+[2024-12-08 04:39:43] UserID was not set in the session.
+[2024-12-08 04:39:43] []
+[2024-12-08 04:39:48] UserID was not set in the session.
+[2024-12-08 04:39:48] []
+[2024-12-08 04:39:53] UserID was not set in the session.
+[2024-12-08 04:39:53] []
+[2024-12-08 04:39:58] UserID was not set in the session.
+[2024-12-08 04:39:58] []
+[2024-12-08 04:40:03] UserID was not set in the session.
+[2024-12-08 04:40:03] []
+[2024-12-08 04:40:08] UserID was not set in the session.
+[2024-12-08 04:40:08] []
+[2024-12-08 04:40:13] UserID was not set in the session.
+[2024-12-08 04:40:13] []
+[2024-12-08 04:40:18] UserID was not set in the session.
+[2024-12-08 04:40:18] []
+[2024-12-08 04:40:23] UserID was not set in the session.
+[2024-12-08 04:40:23] []
+[2024-12-08 04:40:28] UserID was not set in the session.
+[2024-12-08 04:40:28] []
+[2024-12-08 04:40:33] UserID was not set in the session.
+[2024-12-08 04:40:33] []
+[2024-12-08 04:40:38] UserID was not set in the session.
+[2024-12-08 04:40:38] []
+[2024-12-08 04:40:43] UserID was not set in the session.
+[2024-12-08 04:40:43] []
+[2024-12-08 04:40:49] UserID was not set in the session.
+[2024-12-08 04:40:49] []
+[2024-12-08 04:40:53] UserID was not set in the session.
+[2024-12-08 04:40:53] []
+[2024-12-08 04:40:58] UserID was not set in the session.
+[2024-12-08 04:40:58] []
+[2024-12-08 04:41:03] UserID was not set in the session.
+[2024-12-08 04:41:03] []
+[2024-12-08 04:41:08] UserID was not set in the session.
+[2024-12-08 04:41:08] []
+[2024-12-08 04:41:11] UserID was not set in the session.
+[2024-12-08 04:41:11] []
+[2024-12-08 04:41:16] UserID was not set in the session.
+[2024-12-08 04:41:16] []
+[2024-12-08 04:41:21] UserID was not set in the session.
+[2024-12-08 04:41:21] []
+[2024-12-08 04:41:26] UserID was not set in the session.
+[2024-12-08 04:41:26] []
+[2024-12-08 04:41:31] UserID was not set in the session.
+[2024-12-08 04:41:31] []
+[2024-12-08 04:41:36] UserID was not set in the session.
+[2024-12-08 04:41:36] []
+[2024-12-08 04:41:41] UserID was not set in the session.
+[2024-12-08 04:41:41] []
+[2024-12-08 04:41:46] UserID was not set in the session.
+[2024-12-08 04:41:46] []
+[2024-12-08 04:41:50] Attempting to create user with email: kody@gmail.com
+[2024-12-08 04:41:51] Failed to create user with email: kody@gmail.com - Message: Failed to create user.
+[2024-12-08 04:41:51] HTTP Status Code: 401
+[2024-12-08 04:41:51] UserID was not set in the session.
+[2024-12-08 04:41:51] []
+[2024-12-08 04:41:52] UserID was not set in the session.
+[2024-12-08 04:41:52] []
+[2024-12-08 04:41:57] UserID was not set in the session.
+[2024-12-08 04:41:57] []
+[2024-12-08 04:42:02] UserID was not set in the session.
+[2024-12-08 04:42:02] []
+[2024-12-08 04:42:07] UserID was not set in the session.
+[2024-12-08 04:42:07] []
+[2024-12-08 04:42:12] UserID was not set in the session.
+[2024-12-08 04:42:12] []
+[2024-12-08 04:42:17] UserID was not set in the session.
+[2024-12-08 04:42:17] []
+[2024-12-08 04:42:22] UserID was not set in the session.
+[2024-12-08 04:42:22] []
+[2024-12-08 04:42:27] UserID was not set in the session.
+[2024-12-08 04:42:27] []
+[2024-12-08 04:42:32] UserID was not set in the session.
+[2024-12-08 04:42:32] []
+[2024-12-08 04:42:37] UserID was not set in the session.
+[2024-12-08 04:42:37] []
+[2024-12-08 04:42:42] UserID was not set in the session.
+[2024-12-08 04:42:42] []
+[2024-12-08 04:42:47] UserID was not set in the session.
+[2024-12-08 04:42:47] []
+[2024-12-08 04:42:52] UserID was not set in the session.
+[2024-12-08 04:42:52] []
+[2024-12-08 04:42:57] UserID was not set in the session.
+[2024-12-08 04:42:57] []
+[2024-12-08 04:43:02] UserID was not set in the session.
+[2024-12-08 04:43:02] []
+[2024-12-08 04:43:07] UserID was not set in the session.
+[2024-12-08 04:43:07] []
+[2024-12-08 04:43:12] UserID was not set in the session.
+[2024-12-08 04:43:12] []
+[2024-12-08 04:43:17] UserID was not set in the session.
+[2024-12-08 04:43:17] []
+[2024-12-08 04:43:22] UserID was not set in the session.
+[2024-12-08 04:43:22] []
+[2024-12-08 04:43:27] UserID was not set in the session.
+[2024-12-08 04:43:27] []
+[2024-12-08 04:43:32] UserID was not set in the session.
+[2024-12-08 04:43:32] []
+[2024-12-08 04:43:37] UserID was not set in the session.
+[2024-12-08 04:43:37] []
+[2024-12-08 04:43:42] UserID was not set in the session.
+[2024-12-08 04:43:42] []
+[2024-12-08 04:44:42] UserID was not set in the session.
+[2024-12-08 04:44:42] []
+[2024-12-08 04:45:32] UserID was not set in the session.
+[2024-12-08 04:45:32] []
+[2024-12-08 04:45:32] UserID was not set in the session.
+[2024-12-08 04:45:32] []
+[2024-12-08 04:45:34] UserID was not set in the session.
+[2024-12-08 04:45:34] []
+[2024-12-08 04:45:39] UserID was not set in the session.
+[2024-12-08 04:45:39] []
+[2024-12-08 04:45:44] UserID was not set in the session.
+[2024-12-08 04:45:44] []
+[2024-12-08 04:45:46] Attempting to create user with email: ds@gamil
+[2024-12-08 04:45:47] Failed to create user with email: ds@gamil - Message: Failed to create user.
+[2024-12-08 04:45:47] HTTP Status Code: 401
+[2024-12-08 04:45:48] UserID was not set in the session.
+[2024-12-08 04:45:48] []
+[2024-12-08 04:45:51] UserID was not set in the session.
+[2024-12-08 04:45:51] []
+[2024-12-08 04:45:52] UserID was not set in the session.
+[2024-12-08 04:45:52] []
+[2024-12-08 04:45:57] UserID was not set in the session.
+[2024-12-08 04:45:57] []
+[2024-12-08 04:46:02] UserID was not set in the session.
+[2024-12-08 04:46:02] []
+[2024-12-08 04:46:07] UserID was not set in the session.
+[2024-12-08 04:46:07] []
+[2024-12-08 04:46:12] UserID was not set in the session.
+[2024-12-08 04:46:12] []
+[2024-12-08 04:46:17] UserID was not set in the session.
+[2024-12-08 04:46:17] []
+[2024-12-08 04:46:22] UserID was not set in the session.
+[2024-12-08 04:46:22] []
+[2024-12-08 04:46:27] UserID was not set in the session.
+[2024-12-08 04:46:27] []
+[2024-12-08 04:46:32] UserID was not set in the session.
+[2024-12-08 04:46:32] []
+[2024-12-08 04:46:37] UserID was not set in the session.
+[2024-12-08 04:46:37] []
+[2024-12-08 04:46:42] UserID was not set in the session.
+[2024-12-08 04:46:42] []
+[2024-12-08 04:46:47] UserID was not set in the session.
+[2024-12-08 04:46:47] []
+[2024-12-08 04:46:48] Attempting to create user with email: d@d
+[2024-12-08 04:46:49] Failed to create user with email: d@d - Message: Failed to create user.
+[2024-12-08 04:46:49] HTTP Status Code: 401
+[2024-12-08 04:46:50] UserID was not set in the session.
+[2024-12-08 04:46:50] []
+[2024-12-08 04:46:55] UserID was not set in the session.
+[2024-12-08 04:46:55] []
+[2024-12-08 04:47:00] UserID was not set in the session.
+[2024-12-08 04:47:00] []
+[2024-12-08 04:47:05] UserID was not set in the session.
+[2024-12-08 04:47:05] []
+[2024-12-08 04:47:10] UserID was not set in the session.
+[2024-12-08 04:47:10] []
+[2024-12-08 04:47:15] UserID was not set in the session.
+[2024-12-08 04:47:15] []
+[2024-12-08 04:47:20] UserID was not set in the session.
+[2024-12-08 04:47:20] []
+[2024-12-08 04:47:25] UserID was not set in the session.
+[2024-12-08 04:47:25] []
+[2024-12-08 04:47:30] UserID was not set in the session.
+[2024-12-08 04:47:30] []
+[2024-12-08 04:47:35] UserID was not set in the session.
+[2024-12-08 04:47:35] []
+[2024-12-08 04:47:40] UserID was not set in the session.
+[2024-12-08 04:47:40] []
+[2024-12-08 04:47:42] UserID was not set in the session.
+[2024-12-08 04:47:42] []
+[2024-12-08 04:47:47] UserID was not set in the session.
+[2024-12-08 04:47:47] []
+[2024-12-08 04:47:52] UserID was not set in the session.
+[2024-12-08 04:47:52] []
+[2024-12-08 04:47:57] UserID was not set in the session.
+[2024-12-08 04:47:57] []
+[2024-12-08 04:48:02] UserID was not set in the session.
+[2024-12-08 04:48:02] []
+[2024-12-08 04:48:07] UserID was not set in the session.
+[2024-12-08 04:48:07] []
+[2024-12-08 04:48:12] UserID was not set in the session.
+[2024-12-08 04:48:12] []
+[2024-12-08 04:48:17] UserID was not set in the session.
+[2024-12-08 04:48:17] []
+[2024-12-08 04:48:23] UserID was not set in the session.
+[2024-12-08 04:48:23] []
+[2024-12-08 04:48:27] UserID was not set in the session.
+[2024-12-08 04:48:27] []
+[2024-12-08 04:48:32] UserID was not set in the session.
+[2024-12-08 04:48:32] []
+[2024-12-08 04:48:37] UserID was not set in the session.
+[2024-12-08 04:48:37] []
+[2024-12-08 04:48:42] UserID was not set in the session.
+[2024-12-08 04:48:42] []
+[2024-12-08 04:48:47] UserID was not set in the session.
+[2024-12-08 04:48:47] []
+[2024-12-08 04:48:53] UserID was not set in the session.
+[2024-12-08 04:48:53] []
+[2024-12-08 04:48:58] UserID was not set in the session.
+[2024-12-08 04:48:58] []
+[2024-12-08 04:49:03] UserID was not set in the session.
+[2024-12-08 04:49:03] []
+[2024-12-08 04:49:08] UserID was not set in the session.
+[2024-12-08 04:49:08] []
+[2024-12-08 04:49:13] UserID was not set in the session.
+[2024-12-08 04:49:13] []
+[2024-12-08 04:49:18] UserID was not set in the session.
+[2024-12-08 04:49:18] []
+[2024-12-08 04:49:23] UserID was not set in the session.
+[2024-12-08 04:49:23] []
+[2024-12-08 04:49:28] UserID was not set in the session.
+[2024-12-08 04:49:28] []
+[2024-12-08 04:49:32] UserID was not set in the session.
+[2024-12-08 04:49:32] []
+[2024-12-08 04:49:33] UserID was not set in the session.
+[2024-12-08 04:49:33] []
+[2024-12-08 04:49:38] UserID was not set in the session.
+[2024-12-08 04:49:38] []
+[2024-12-08 04:49:43] UserID was not set in the session.
+[2024-12-08 04:49:43] []
+[2024-12-08 04:49:48] UserID was not set in the session.
+[2024-12-08 04:49:48] []
+[2024-12-08 04:49:53] UserID was not set in the session.
+[2024-12-08 04:49:53] []
+[2024-12-08 04:49:57] UserID was not set in the session.
+[2024-12-08 04:49:57] []
+[2024-12-08 04:49:58] UserID was not set in the session.
+[2024-12-08 04:49:58] []
+[2024-12-08 04:50:01] UserID was not set in the session.
+[2024-12-08 04:50:01] []
+[2024-12-08 04:50:03] UserID was not set in the session.
+[2024-12-08 04:50:03] []
+[2024-12-08 04:50:08] UserID was not set in the session.
+[2024-12-08 04:50:08] []
+[2024-12-08 04:50:14] UserID was not set in the session.
+[2024-12-08 04:50:14] []
+[2024-12-08 04:50:18] UserID was not set in the session.
+[2024-12-08 04:50:18] []
+[2024-12-08 04:50:23] UserID was not set in the session.
+[2024-12-08 04:50:23] []
+[2024-12-08 04:50:28] UserID was not set in the session.
+[2024-12-08 04:50:28] []
+[2024-12-08 04:50:32] UserID was not set in the session.
+[2024-12-08 04:50:32] []
+[2024-12-08 04:50:36] UserID was not set in the session.
+[2024-12-08 04:50:36] []
+[2024-12-08 04:50:41] UserID was not set in the session.
+[2024-12-08 04:50:41] []
+[2024-12-08 04:50:46] UserID was not set in the session.
+[2024-12-08 04:50:46] []
+[2024-12-08 04:50:51] UserID was not set in the session.
+[2024-12-08 04:50:51] []
+[2024-12-08 04:50:56] UserID was not set in the session.
+[2024-12-08 04:50:56] []
+[2024-12-08 04:51:01] UserID was not set in the session.
+[2024-12-08 04:51:01] []
+[2024-12-08 04:51:04] Attempting to create user with email: kody@gmail.com
+[2024-12-08 04:51:04] User created successfully with email: kody@gmail.com
+[2024-12-08 04:51:05] UserID was not set in the session.
+[2024-12-08 04:51:05] []
+[2024-12-08 04:51:10] UserID was not set in the session.
+[2024-12-08 04:51:10] []
+[2024-12-08 04:51:10] UserID was not set in the session.
+[2024-12-08 04:51:10] []
+[2024-12-08 04:51:15] UserID was not set in the session.
+[2024-12-08 04:51:15] []
+[2024-12-08 04:51:18] API Response: {"success":true,"message":"Login successful","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo4LCJ1c2VybmFtZSI6IktvZHlXZWlnZWwiLCJlbWFpbCI6ImtvZHlAZ21haWwuY29tIiwicm9sZSI6InVzZXIiLCJleHAiOjE3MzM3Mjk4Nzd9.VQDiwv8WNQRDtfQT_KcKRzhsw5yHSyzqsrmaWZnC45k","username":"KodyWeigel","user_id":8,"role":"user"}
+[2024-12-08 04:51:18] HTTP Status Code: 200
+[2024-12-08 04:51:18] Login successful for email: kody@gmail.com
+[2024-12-08 04:51:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:19] API response code: 404
+[2024-12-08 04:51:19] API returned an error or missing notifications data.
+[2024-12-08 04:51:19] []
+[2024-12-08 04:51:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:24] API response code: 404
+[2024-12-08 04:51:24] API returned an error or missing notifications data.
+[2024-12-08 04:51:24] []
+[2024-12-08 04:51:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:29] API response code: 404
+[2024-12-08 04:51:29] API returned an error or missing notifications data.
+[2024-12-08 04:51:29] []
+[2024-12-08 04:51:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:34] API response code: 404
+[2024-12-08 04:51:34] API returned an error or missing notifications data.
+[2024-12-08 04:51:34] []
+[2024-12-08 04:51:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:39] API response code: 404
+[2024-12-08 04:51:39] API returned an error or missing notifications data.
+[2024-12-08 04:51:39] []
+[2024-12-08 04:51:41] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:51:41] CURL executed successfully. Response received.
+[2024-12-08 04:51:41] HTTP response code: 200
+[2024-12-08 04:51:41] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:51:41] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:51:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:42] API response code: 404
+[2024-12-08 04:51:42] API returned an error or missing notifications data.
+[2024-12-08 04:51:42] []
+[2024-12-08 04:51:47] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:47] API response code: 404
+[2024-12-08 04:51:47] API returned an error or missing notifications data.
+[2024-12-08 04:51:47] []
+[2024-12-08 04:51:52] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:52] API response code: 404
+[2024-12-08 04:51:52] API returned an error or missing notifications data.
+[2024-12-08 04:51:52] []
+[2024-12-08 04:51:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:51:53] API response code: 200
+[2024-12-08 04:51:53] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:51:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:51:54] API response code: 404
+[2024-12-08 04:51:54] Failed to decode API response or API returned an error.
+[2024-12-08 04:51:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:51:55] API response code: 404
+[2024-12-08 04:51:55] API returned an error or missing notifications data.
+[2024-12-08 04:51:55] []
+[2024-12-08 04:51:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:00] API response code: 404
+[2024-12-08 04:52:00] API returned an error or missing notifications data.
+[2024-12-08 04:52:00] []
+[2024-12-08 04:52:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:05] API response code: 404
+[2024-12-08 04:52:05] API returned an error or missing notifications data.
+[2024-12-08 04:52:05] []
+[2024-12-08 04:52:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:10] API response code: 404
+[2024-12-08 04:52:10] API returned an error or missing notifications data.
+[2024-12-08 04:52:10] []
+[2024-12-08 04:52:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:15] API response code: 404
+[2024-12-08 04:52:15] API returned an error or missing notifications data.
+[2024-12-08 04:52:15] []
+[2024-12-08 04:52:15] Data being sent to API: "creator_id=8&comment_body=Sounds+fun+ill+be+there%21&post_id=7&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo4LCJ1c2VybmFtZSI6IktvZHlXZWlnZWwiLCJlbWFpbCI6ImtvZHlAZ21haWwuY29tIiwicm9sZSI6InVzZXIiLCJleHAiOjE3MzM3Mjk4Nzd9.VQDiwv8WNQRDtfQT_KcKRzhsw5yHSyzqsrmaWZnC45k"
+[2024-12-08 04:52:16] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=7
+[2024-12-08 04:52:16] API response code: 200
+[2024-12-08 04:52:16] API response received successfully: {"PostID":7,"CreatorID":5,"Description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","Location":"123 Marshfield Street","DateHeld":"2024-12-10","DateCreated":"2024\/11\/28","Likes":0,"Title":"Marshfield Area MTG Casual Event","Username":"admin"}
+[2024-12-08 04:52:16] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=7
+[2024-12-08 04:52:17] API response code: 200
+[2024-12-08 04:52:17] API response received successfully: [{"CommentID":23,"CreatorID":8,"Likes":0,"DateCreated":"2024-12-08","Body":"Sounds fun ill be there!","Username":"KodyWeigel"}]
+[2024-12-08 04:52:17] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:17] API response code: 404
+[2024-12-08 04:52:17] API returned an error or missing notifications data.
+[2024-12-08 04:52:17] []
+[2024-12-08 04:52:22] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:22] API response code: 404
+[2024-12-08 04:52:22] API returned an error or missing notifications data.
+[2024-12-08 04:52:22] []
+[2024-12-08 04:52:27] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:27] API response code: 404
+[2024-12-08 04:52:27] API returned an error or missing notifications data.
+[2024-12-08 04:52:27] []
+[2024-12-08 04:52:32] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:32] API response code: 404
+[2024-12-08 04:52:32] API returned an error or missing notifications data.
+[2024-12-08 04:52:32] []
+[2024-12-08 04:52:36] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:36] API response code: 404
+[2024-12-08 04:52:36] API returned an error or missing notifications data.
+[2024-12-08 04:52:36] []
+[2024-12-08 04:52:41] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:41] API response code: 404
+[2024-12-08 04:52:41] API returned an error or missing notifications data.
+[2024-12-08 04:52:41] []
+[2024-12-08 04:52:46] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:46] API response code: 404
+[2024-12-08 04:52:46] API returned an error or missing notifications data.
+[2024-12-08 04:52:46] []
+[2024-12-08 04:52:51] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:51] API response code: 404
+[2024-12-08 04:52:51] API returned an error or missing notifications data.
+[2024-12-08 04:52:51] []
+[2024-12-08 04:52:56] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:52:56] API response code: 404
+[2024-12-08 04:52:56] API returned an error or missing notifications data.
+[2024-12-08 04:52:56] []
+[2024-12-08 04:53:01] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:01] API response code: 404
+[2024-12-08 04:53:01] API returned an error or missing notifications data.
+[2024-12-08 04:53:01] []
+[2024-12-08 04:53:06] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:06] API response code: 404
+[2024-12-08 04:53:06] API returned an error or missing notifications data.
+[2024-12-08 04:53:06] []
+[2024-12-08 04:53:11] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:11] API response code: 404
+[2024-12-08 04:53:11] API returned an error or missing notifications data.
+[2024-12-08 04:53:11] []
+[2024-12-08 04:53:13] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:53:14] CURL executed successfully. Response received.
+[2024-12-08 04:53:14] HTTP response code: 200
+[2024-12-08 04:53:14] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:14] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:53:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:15] API response code: 404
+[2024-12-08 04:53:15] API returned an error or missing notifications data.
+[2024-12-08 04:53:15] []
+[2024-12-08 04:53:17] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=10
+[2024-12-08 04:53:17] API response code: 200
+[2024-12-08 04:53:17] API response received successfully: {"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club","Username":"KodyWeigel"}
+[2024-12-08 04:53:17] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=10
+[2024-12-08 04:53:18] API response code: 404
+[2024-12-08 04:53:18] Failed to decode API response or API returned an error.
+[2024-12-08 04:53:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:19] API response code: 404
+[2024-12-08 04:53:19] API returned an error or missing notifications data.
+[2024-12-08 04:53:19] []
+[2024-12-08 04:53:22] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:53:23] CURL executed successfully. Response received.
+[2024-12-08 04:53:23] HTTP response code: 200
+[2024-12-08 04:53:23] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:23] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:53:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:23] API response code: 404
+[2024-12-08 04:53:23] API returned an error or missing notifications data.
+[2024-12-08 04:53:23] []
+[2024-12-08 04:53:28] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=8
+[2024-12-08 04:53:28] API response code: 404
+[2024-12-08 04:53:28] API returned an error or missing notifications data.
+[2024-12-08 04:53:28] []
+[2024-12-08 04:53:33] UserID was not set in the session.
+[2024-12-08 04:53:33] []
+[2024-12-08 04:53:33] UserID was not set in the session.
+[2024-12-08 04:53:33] []
+[2024-12-08 04:53:38] UserID was not set in the session.
+[2024-12-08 04:53:38] []
+[2024-12-08 04:53:43] API Response: {"success":true,"message":"Login successful","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6ImFkbWluIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJleHAiOjE3MzM3MzAwMjJ9.m1kRBvVYR7Cv4VPno3SRqD50dzzCRyQshcNItWlxGus","username":"admin","user_id":5,"role":"admin"}
+[2024-12-08 04:53:43] HTTP Status Code: 200
+[2024-12-08 04:53:43] Login successful for email: admin@gmail.com
+[2024-12-08 04:53:43] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:44] API response code: 200
+[2024-12-08 04:53:44] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:44] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:44] API response code: 200
+[2024-12-08 04:53:44] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:44] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:48] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:48] API response code: 200
+[2024-12-08 04:53:48] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:49] API response code: 200
+[2024-12-08 04:53:49] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:49] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:52] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:53:52] CURL executed successfully. Response received.
+[2024-12-08 04:53:52] HTTP response code: 200
+[2024-12-08 04:53:52] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:53:52] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:53:53] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:53] API response code: 200
+[2024-12-08 04:53:53] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:53] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:57] API response code: 200
+[2024-12-08 04:53:57] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:57] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:53:58] API response code: 200
+[2024-12-08 04:53:58] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:53:58] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:54:02] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:03] API response code: 200
+[2024-12-08 04:54:03] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:54:03] [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:54:07] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:07] API response code: 200
+[2024-12-08 04:54:07] API response received successfully: [{"Message":"A user commented on your post on 2024\/12\/08: 'Sounds fun ill be there!'"}]
+[2024-12-08 04:54:07] Making API request to: http://localhost/MTGEventAPI/endpoints/deleteNotifications.php?user_id=5
+[2024-12-08 04:54:08] API response code: 200
+[2024-12-08 04:54:08] Notifications deleted successfully
+[2024-12-08 04:54:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:08] API response code: 404
+[2024-12-08 04:54:08] API returned an error or missing notifications data.
+[2024-12-08 04:54:08] []
+[2024-12-08 04:54:08] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:09] API response code: 404
+[2024-12-08 04:54:09] API returned an error or missing notifications data.
+[2024-12-08 04:54:09] []
+[2024-12-08 04:54:13] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:14] API response code: 404
+[2024-12-08 04:54:14] API returned an error or missing notifications data.
+[2024-12-08 04:54:14] []
+[2024-12-08 04:54:18] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:19] API response code: 404
+[2024-12-08 04:54:19] API returned an error or missing notifications data.
+[2024-12-08 04:54:19] []
+[2024-12-08 04:54:20] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:54:21] CURL executed successfully. Response received.
+[2024-12-08 04:54:21] HTTP response code: 200
+[2024-12-08 04:54:21] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"},{"post_id":10,"description":"Test Test Test","location":"123 Main Street","date_held":"2024-12-25","date_created":"2024\/12\/08","likes":0,"title":"Stevens Point MTG Club"}]}
+[2024-12-08 04:54:21] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:54:21] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:22] API response code: 404
+[2024-12-08 04:54:22] API returned an error or missing notifications data.
+[2024-12-08 04:54:22] []
+[2024-12-08 04:54:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getPost.php?post_id=10
+[2024-12-08 04:54:23] API response code: 200
+[2024-12-08 04:54:23] API response received successfully: {"PostID":10,"CreatorID":8,"Description":"Test Test Test","Location":"123 Main Street","DateHeld":"2024-12-25","DateCreated":"2024\/12\/08","Likes":0,"Title":"Stevens Point MTG Club","Username":"KodyWeigel"}
+[2024-12-08 04:54:23] Making API request to: http://localhost/MTGEventAPI/endpoints/getComments.php?post_id=10
+[2024-12-08 04:54:23] API response code: 404
+[2024-12-08 04:54:23] Failed to decode API response or API returned an error.
+[2024-12-08 04:54:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:24] API response code: 404
+[2024-12-08 04:54:24] API returned an error or missing notifications data.
+[2024-12-08 04:54:24] []
+[2024-12-08 04:54:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:29] API response code: 404
+[2024-12-08 04:54:29] API returned an error or missing notifications data.
+[2024-12-08 04:54:29] []
+[2024-12-08 04:54:32] Attempting to delete post with ID: 10
+[2024-12-08 04:54:32] HTTP Status Code: 200
+[2024-12-08 04:54:32] Post deleted successfully
+[2024-12-08 04:54:33] Initializing cURL request to API: http://localhost/MTGEventAPI/endpoints/getPosts.php
+[2024-12-08 04:54:33] CURL executed successfully. Response received.
+[2024-12-08 04:54:33] HTTP response code: 200
+[2024-12-08 04:54:33] API Response: {"success":true,"message":"Posts retrieved successfully","data":[{"post_id":7,"description":"On December 10th [Gamestore name here] is holding our monthly casual MTG Event. There will be food, beverages, and prizes. Can't wait to see you there!","location":"123 Marshfield Street","date_held":"2024-12-10","date_created":"2024\/11\/28","likes":0,"title":"Marshfield Area MTG Casual Event"}]}
+[2024-12-08 04:54:33] Posts retrieved successfully. Displaying posts.
+[2024-12-08 04:54:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:34] API response code: 404
+[2024-12-08 04:54:34] API returned an error or missing notifications data.
+[2024-12-08 04:54:34] []
+[2024-12-08 04:54:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:39] API response code: 404
+[2024-12-08 04:54:39] API returned an error or missing notifications data.
+[2024-12-08 04:54:39] []
+[2024-12-08 04:54:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:44] API response code: 404
+[2024-12-08 04:54:44] API returned an error or missing notifications data.
+[2024-12-08 04:54:44] []
+[2024-12-08 04:54:49] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:50] API response code: 404
+[2024-12-08 04:54:50] API returned an error or missing notifications data.
+[2024-12-08 04:54:50] []
+[2024-12-08 04:54:54] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:55] API response code: 404
+[2024-12-08 04:54:55] API returned an error or missing notifications data.
+[2024-12-08 04:54:55] []
+[2024-12-08 04:54:59] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:54:59] API response code: 404
+[2024-12-08 04:54:59] API returned an error or missing notifications data.
+[2024-12-08 04:54:59] []
+[2024-12-08 04:55:04] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:05] API response code: 404
+[2024-12-08 04:55:05] API returned an error or missing notifications data.
+[2024-12-08 04:55:05] []
+[2024-12-08 04:55:09] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:10] API response code: 404
+[2024-12-08 04:55:10] API returned an error or missing notifications data.
+[2024-12-08 04:55:10] []
+[2024-12-08 04:55:14] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:15] API response code: 404
+[2024-12-08 04:55:15] API returned an error or missing notifications data.
+[2024-12-08 04:55:15] []
+[2024-12-08 04:55:19] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:20] API response code: 404
+[2024-12-08 04:55:20] API returned an error or missing notifications data.
+[2024-12-08 04:55:20] []
+[2024-12-08 04:55:24] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:25] API response code: 404
+[2024-12-08 04:55:25] API returned an error or missing notifications data.
+[2024-12-08 04:55:25] []
+[2024-12-08 04:55:29] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:30] API response code: 404
+[2024-12-08 04:55:30] API returned an error or missing notifications data.
+[2024-12-08 04:55:30] []
+[2024-12-08 04:55:34] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:35] API response code: 404
+[2024-12-08 04:55:35] API returned an error or missing notifications data.
+[2024-12-08 04:55:35] []
+[2024-12-08 04:55:39] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:40] API response code: 404
+[2024-12-08 04:55:40] API returned an error or missing notifications data.
+[2024-12-08 04:55:40] []
+[2024-12-08 04:55:44] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:55:45] API response code: 404
+[2024-12-08 04:55:45] API returned an error or missing notifications data.
+[2024-12-08 04:55:45] []
+[2024-12-08 04:56:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:56:43] API response code: 404
+[2024-12-08 04:56:43] API returned an error or missing notifications data.
+[2024-12-08 04:56:43] []
+[2024-12-08 04:57:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:57:43] API response code: 404
+[2024-12-08 04:57:43] API returned an error or missing notifications data.
+[2024-12-08 04:57:43] []
+[2024-12-08 04:58:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 04:58:43] API response code: 404
+[2024-12-08 04:58:43] API returned an error or missing notifications data.
+[2024-12-08 04:58:43] []

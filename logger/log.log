@@ -2300,3 +2300,7 @@
 [2024-12-08 05:02:43] API response code: 404
 [2024-12-08 05:02:43] API returned an error or missing notifications data.
 [2024-12-08 05:02:43] []
+[2024-12-08 05:03:42] Making API request to: http://localhost/MTGEventAPI/endpoints/getNotifications.php?user_id=5
+[2024-12-08 05:03:43] API response code: 404
+[2024-12-08 05:03:43] API returned an error or missing notifications data.
+[2024-12-08 05:03:43] []
